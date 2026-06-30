@@ -1,0 +1,2001 @@
+Lead_ID,Lead_Date,Lead_Source,Preferred_Model,Preferred_Variant,Assigned_Salesperson,Lead_Status,Followup_Count,Finance_Intent,Exchange_Intent
+LD20000,2024-01-30,Website,Swift,Base,SP10,Contacted,6,No,Yes
+LD20001,2025-06-18,Facebook,City,Base,SP13,New,3,Yes,No
+LD20002,2025-05-31,Facebook,Baleno,Top,SP10,Test Drive,5,Yes,Yes
+LD20003,2025-07-28,Aggregator,City,Base,SP14,Booked,7,No,No
+LD20004,2024-08-08,Aggregator,Nexon,Base,SP9,Contacted,7,No,No
+LD20005,2025-08-16,Aggregator,Creta,Base,SP7,Booked,6,No,Yes
+LD20006,2025-05-08,Aggregator,Baleno,Top,SP7,Contacted,1,Yes,Yes
+LD20007,2024-09-09,Referral,City,Top,SP18,Booked,1,Yes,No
+LD20008,2025-07-17,Walk-in,Swift,Top,SP16,Contacted,2,No,No
+LD20009,2024-11-16,Aggregator,Venue,Mid,SP8,Booked,3,No,Yes
+LD20010,2024-02-08,Website,Venue,Mid,SP16,Booked,0,Yes,No
+LD20011,2025-04-09,Facebook,Baleno,Mid,SP19,Booked,4,No,No
+LD20012,2025-02-14,Aggregator,Venue,Mid,SP15,New,6,No,No
+LD20013,2025-02-15,Website,Creta,Top,SP15,Test Drive,9,Yes,Yes
+LD20014,2025-05-06,Referral,Baleno,Base,SP6,Test Drive,4,Yes,No
+LD20015,2025-03-13,Website,Swift,Top,SP9,Lost,6,No,No
+LD20016,2025-04-23,Website,Swift,Mid,SP15,Contacted,4,Yes,No
+LD20017,2024-03-12,Referral,Baleno,Top,SP7,Booked,9,No,Yes
+LD20018,2025-08-04,Referral,Venue,Base,SP8,Contacted,7,Yes,Yes
+LD20019,2024-08-07,Facebook,Venue,Mid,SP18,Contacted,6,Yes,No
+LD20020,2024-01-04,Aggregator,Swift,Base,SP16,New,0,Yes,No
+LD20021,2024-10-16,Website,Creta,Base,SP15,New,0,Yes,No
+LD20022,2025-01-14,Walk-in,Nexon,Base,SP3,New,4,No,Yes
+LD20023,2024-12-20,Walk-in,Venue,Mid,SP1,New,1,Yes,Yes
+LD20024,2024-03-20,Facebook,Creta,Top,SP13,New,8,No,No
+LD20025,2024-03-06,Walk-in,Venue,Mid,SP12,Booked,1,Yes,No
+LD20026,2024-05-15,Facebook,Nexon,Mid,SP9,Contacted,8,No,No
+LD20027,2025-02-02,Aggregator,Baleno,Top,SP2,Booked,9,Yes,No
+LD20028,2025-12-03,Facebook,City,Top,SP9,Test Drive,1,Yes,No
+LD20029,2024-12-12,Referral,Swift,Top,SP8,Booked,3,No,No
+LD20030,2024-02-28,Referral,Baleno,Top,SP5,Test Drive,2,Yes,No
+LD20031,2025-06-02,Referral,Venue,Base,SP13,New,5,No,Yes
+LD20032,2025-12-14,Referral,Nexon,Mid,SP2,Test Drive,3,No,Yes
+LD20033,2024-08-24,Referral,Swift,Mid,SP10,Test Drive,8,Yes,Yes
+LD20034,2024-03-19,Referral,City,Mid,SP6,Test Drive,8,Yes,No
+LD20035,2025-07-11,Referral,City,Top,SP7,Booked,9,No,Yes
+LD20036,2025-11-02,Referral,Nexon,Mid,SP3,Booked,8,Yes,No
+LD20037,2024-04-24,Referral,Nexon,Base,SP14,Contacted,2,Yes,Yes
+LD20038,2025-04-06,Aggregator,Venue,Mid,SP16,Booked,2,No,Yes
+LD20039,2025-09-17,Referral,Swift,Mid,SP6,Test Drive,3,Yes,Yes
+LD20040,2024-05-05,Facebook,Venue,Base,SP8,New,8,Yes,Yes
+LD20041,2025-08-24,Aggregator,City,Base,SP1,Test Drive,5,Yes,Yes
+LD20042,2025-07-26,Walk-in,Baleno,Mid,SP20,Booked,8,Yes,No
+LD20043,2025-05-14,Website,Baleno,Top,SP15,Test Drive,7,Yes,No
+LD20044,2024-04-11,Aggregator,Creta,Top,SP17,Lost,6,No,Yes
+LD20045,2025-09-17,Referral,City,Mid,SP18,New,4,Yes,No
+LD20046,2024-06-22,Aggregator,City,Mid,SP3,Booked,8,Yes,Yes
+LD20047,2025-03-27,Website,Venue,Mid,SP6,Booked,3,No,Yes
+LD20048,2024-04-01,Website,Creta,Mid,SP17,Booked,3,Yes,Yes
+LD20049,2025-11-25,Referral,Nexon,Top,SP13,Contacted,7,No,No
+LD20050,2025-01-19,Referral,Creta,Mid,SP17,Contacted,3,No,Yes
+LD20051,2024-07-23,Facebook,Swift,Base,SP16,Test Drive,6,Yes,Yes
+LD20052,2024-12-28,Website,Venue,Top,SP17,Contacted,3,Yes,No
+LD20053,2025-12-07,Referral,Nexon,Top,SP1,Booked,0,No,Yes
+LD20054,2025-05-12,Website,Nexon,Base,SP16,New,9,Yes,No
+LD20055,2025-06-20,Facebook,Baleno,Mid,SP6,Test Drive,8,No,No
+LD20056,2024-08-21,Walk-in,Swift,Mid,SP8,New,3,Yes,No
+LD20057,2024-01-16,Website,Creta,Mid,SP1,Test Drive,2,Yes,No
+LD20058,2024-05-20,Facebook,Baleno,Mid,SP2,Booked,2,No,No
+LD20059,2025-09-11,Facebook,City,Mid,SP15,New,8,No,No
+LD20060,2025-02-23,Facebook,Venue,Base,SP5,Booked,7,No,No
+LD20061,2025-03-31,Aggregator,Creta,Mid,SP20,New,9,No,No
+LD20062,2024-10-26,Referral,City,Base,SP15,Test Drive,6,No,No
+LD20063,2024-12-04,Website,Nexon,Base,SP10,Test Drive,6,No,No
+LD20064,2024-10-29,Aggregator,Creta,Base,SP5,Contacted,3,No,No
+LD20065,2025-08-14,Website,Baleno,Mid,SP3,New,2,No,No
+LD20066,2024-03-16,Aggregator,Swift,Mid,SP6,Booked,3,No,No
+LD20067,2025-09-15,Referral,Baleno,Top,SP15,Contacted,5,No,No
+LD20068,2024-11-11,Facebook,Venue,Top,SP18,New,3,Yes,No
+LD20069,2025-05-14,Website,Venue,Base,SP14,Booked,3,Yes,No
+LD20070,2024-03-15,Facebook,Creta,Top,SP10,New,1,No,No
+LD20071,2025-12-26,Referral,Baleno,Base,SP4,Booked,6,Yes,Yes
+LD20072,2024-12-31,Website,Swift,Top,SP11,Test Drive,5,No,Yes
+LD20073,2025-06-29,Walk-in,Nexon,Mid,SP20,New,1,Yes,No
+LD20074,2025-10-14,Walk-in,Venue,Mid,SP7,New,4,Yes,No
+LD20075,2025-11-08,Walk-in,Swift,Base,SP15,Test Drive,5,Yes,Yes
+LD20076,2025-01-30,Referral,City,Base,SP9,New,4,Yes,Yes
+LD20077,2024-08-18,Walk-in,Creta,Mid,SP15,New,3,Yes,No
+LD20078,2024-01-28,Website,Swift,Mid,SP12,Booked,8,No,No
+LD20079,2025-04-19,Walk-in,Creta,Mid,SP18,Test Drive,2,Yes,Yes
+LD20080,2024-10-21,Website,City,Top,SP6,Contacted,1,Yes,No
+LD20081,2025-03-02,Referral,Swift,Top,SP18,Test Drive,8,No,Yes
+LD20082,2024-03-31,Facebook,Swift,Top,SP18,Test Drive,7,Yes,No
+LD20083,2024-04-24,Aggregator,Nexon,Top,SP6,Test Drive,8,Yes,Yes
+LD20084,2024-06-07,Walk-in,City,Base,SP15,Test Drive,9,Yes,No
+LD20085,2024-09-14,Aggregator,Baleno,Base,SP19,Lost,2,Yes,No
+LD20086,2025-01-07,Facebook,Swift,Top,SP5,Contacted,0,Yes,Yes
+LD20087,2024-03-30,Referral,Nexon,Base,SP4,Contacted,0,Yes,No
+LD20088,2024-10-24,Referral,Swift,Top,SP17,New,2,Yes,Yes
+LD20089,2024-01-31,Facebook,Nexon,Top,SP10,New,3,No,Yes
+LD20090,2024-12-23,Aggregator,Venue,Mid,SP12,New,1,No,Yes
+LD20091,2025-04-14,Walk-in,Baleno,Top,SP5,Contacted,7,No,No
+LD20092,2024-05-07,Website,Swift,Base,SP7,Test Drive,2,Yes,Yes
+LD20093,2024-09-26,Referral,City,Top,SP12,New,3,Yes,No
+LD20094,2025-05-12,Facebook,Creta,Mid,SP2,Booked,5,No,Yes
+LD20095,2025-02-16,Aggregator,City,Base,SP20,Contacted,9,No,Yes
+LD20096,2024-07-27,Walk-in,Baleno,Mid,SP17,Lost,5,No,Yes
+LD20097,2025-11-20,Aggregator,Venue,Top,SP13,Test Drive,1,Yes,Yes
+LD20098,2024-11-01,Walk-in,Venue,Top,SP5,Booked,5,No,No
+LD20099,2024-07-09,Website,Venue,Top,SP5,Booked,3,Yes,No
+LD20100,2024-12-22,Website,Nexon,Top,SP20,Booked,4,No,No
+LD20101,2025-04-01,Facebook,City,Base,SP12,Test Drive,6,No,No
+LD20102,2025-03-24,Facebook,Creta,Top,SP12,Contacted,6,Yes,No
+LD20103,2024-03-08,Walk-in,Creta,Mid,SP7,Test Drive,5,Yes,No
+LD20104,2025-04-11,Walk-in,Nexon,Base,SP6,Contacted,9,Yes,Yes
+LD20105,2024-12-25,Walk-in,Swift,Base,SP10,New,5,Yes,No
+LD20106,2025-01-21,Walk-in,Nexon,Base,SP19,Contacted,5,Yes,No
+LD20107,2024-05-07,Website,Creta,Mid,SP16,New,3,Yes,No
+LD20108,2025-04-29,Facebook,Creta,Mid,SP2,Contacted,2,No,No
+LD20109,2024-08-31,Facebook,Swift,Mid,SP4,New,0,Yes,No
+LD20110,2024-01-19,Referral,City,Mid,SP9,Contacted,2,Yes,No
+LD20111,2025-01-30,Facebook,City,Top,SP5,New,2,Yes,Yes
+LD20112,2025-10-28,Facebook,Baleno,Top,SP1,Contacted,8,No,Yes
+LD20113,2024-08-16,Aggregator,City,Mid,SP11,Booked,2,No,No
+LD20114,2025-01-02,Aggregator,Venue,Mid,SP19,Contacted,7,Yes,Yes
+LD20115,2024-02-27,Referral,Venue,Top,SP3,Lost,7,Yes,No
+LD20116,2024-10-07,Walk-in,Baleno,Top,SP1,New,2,Yes,Yes
+LD20117,2025-07-10,Referral,Creta,Mid,SP4,Booked,9,Yes,No
+LD20118,2024-04-11,Referral,Baleno,Base,SP9,New,9,Yes,Yes
+LD20119,2024-02-17,Website,Swift,Base,SP16,Lost,5,Yes,Yes
+LD20120,2025-07-15,Facebook,Baleno,Mid,SP7,New,7,No,No
+LD20121,2025-08-15,Website,Baleno,Base,SP5,Booked,7,Yes,No
+LD20122,2024-02-28,Facebook,Nexon,Top,SP13,New,9,Yes,Yes
+LD20123,2024-06-09,Referral,Venue,Base,SP11,Test Drive,9,Yes,No
+LD20124,2024-04-12,Facebook,Swift,Mid,SP14,New,8,Yes,No
+LD20125,2025-02-15,Walk-in,Nexon,Base,SP17,Test Drive,8,No,No
+LD20126,2024-07-01,Walk-in,Swift,Base,SP12,Test Drive,7,Yes,No
+LD20127,2025-02-20,Referral,Baleno,Base,SP19,Lost,6,No,No
+LD20128,2024-04-25,Aggregator,Nexon,Top,SP5,Test Drive,9,Yes,No
+LD20129,2025-02-02,Walk-in,Nexon,Top,SP8,Contacted,2,Yes,Yes
+LD20130,2025-11-06,Referral,Swift,Top,SP2,New,6,Yes,No
+LD20131,2025-10-16,Website,Swift,Mid,SP17,Test Drive,3,No,No
+LD20132,2025-03-12,Aggregator,City,Base,SP2,New,1,No,Yes
+LD20133,2024-11-13,Walk-in,Swift,Top,SP3,Booked,7,Yes,Yes
+LD20134,2025-08-28,Referral,Nexon,Top,SP20,New,1,Yes,Yes
+LD20135,2024-09-06,Referral,Creta,Base,SP18,Test Drive,0,Yes,No
+LD20136,2025-03-22,Website,Swift,Mid,SP15,Test Drive,4,Yes,Yes
+LD20137,2025-05-11,Website,Venue,Base,SP5,Contacted,9,Yes,Yes
+LD20138,2024-12-08,Aggregator,City,Mid,SP17,Test Drive,8,Yes,Yes
+LD20139,2025-03-02,Walk-in,Venue,Base,SP14,Contacted,4,Yes,Yes
+LD20140,2024-08-27,Referral,Venue,Top,SP1,New,1,No,Yes
+LD20141,2024-02-28,Aggregator,Creta,Top,SP14,Lost,9,No,Yes
+LD20142,2025-06-10,Aggregator,City,Top,SP9,Contacted,3,Yes,Yes
+LD20143,2024-07-21,Website,Baleno,Mid,SP5,Booked,7,Yes,Yes
+LD20144,2025-04-10,Referral,Nexon,Base,SP4,Test Drive,6,Yes,No
+LD20145,2024-10-22,Facebook,Nexon,Mid,SP1,Test Drive,4,Yes,No
+LD20146,2024-10-13,Website,Swift,Top,SP3,New,3,Yes,Yes
+LD20147,2024-03-13,Referral,Nexon,Mid,SP20,Test Drive,4,Yes,No
+LD20148,2025-12-26,Aggregator,Creta,Mid,SP11,Contacted,6,No,No
+LD20149,2025-06-06,Aggregator,Nexon,Mid,SP16,Contacted,4,No,No
+LD20150,2024-12-02,Walk-in,Creta,Base,SP11,Lost,7,No,Yes
+LD20151,2024-11-13,Facebook,Baleno,Mid,SP10,New,6,Yes,Yes
+LD20152,2024-07-21,Website,Creta,Mid,SP12,Booked,6,No,No
+LD20153,2024-08-18,Walk-in,Baleno,Mid,SP5,Contacted,8,Yes,Yes
+LD20154,2025-07-16,Walk-in,Baleno,Top,SP10,Contacted,7,No,No
+LD20155,2024-02-26,Facebook,Baleno,Top,SP13,Contacted,7,Yes,Yes
+LD20156,2025-10-05,Website,Creta,Base,SP19,Contacted,5,No,No
+LD20157,2025-02-23,Website,Baleno,Top,SP7,Contacted,6,Yes,Yes
+LD20158,2024-10-06,Aggregator,Creta,Base,SP16,Contacted,7,No,Yes
+LD20159,2024-10-31,Website,City,Top,SP6,Test Drive,4,No,No
+LD20160,2025-04-10,Walk-in,Baleno,Base,SP10,New,9,No,No
+LD20161,2024-06-22,Aggregator,Creta,Base,SP10,Contacted,1,Yes,No
+LD20162,2024-09-22,Website,Creta,Base,SP11,Contacted,6,Yes,No
+LD20163,2024-09-03,Facebook,Creta,Top,SP10,Booked,9,Yes,Yes
+LD20164,2024-03-18,Walk-in,Swift,Mid,SP14,New,2,Yes,Yes
+LD20165,2025-10-08,Referral,Swift,Top,SP15,Lost,9,Yes,No
+LD20166,2025-10-13,Facebook,Baleno,Mid,SP7,New,7,No,No
+LD20167,2024-09-09,Facebook,Nexon,Top,SP13,Contacted,5,Yes,Yes
+LD20168,2025-04-19,Website,City,Mid,SP11,New,3,Yes,Yes
+LD20169,2024-06-24,Aggregator,Nexon,Top,SP7,Contacted,1,Yes,Yes
+LD20170,2025-02-24,Aggregator,Baleno,Base,SP11,Booked,6,No,Yes
+LD20171,2025-07-25,Walk-in,Venue,Base,SP14,Contacted,0,No,No
+LD20172,2025-04-05,Website,Venue,Base,SP17,New,6,No,No
+LD20173,2024-09-10,Aggregator,City,Mid,SP16,New,9,Yes,Yes
+LD20174,2025-06-03,Referral,City,Mid,SP1,New,9,Yes,Yes
+LD20175,2024-04-16,Website,City,Base,SP9,Lost,6,No,No
+LD20176,2024-06-19,Website,Swift,Mid,SP9,Booked,9,Yes,No
+LD20177,2024-02-27,Aggregator,Swift,Base,SP10,Contacted,2,Yes,Yes
+LD20178,2024-12-02,Facebook,Venue,Top,SP19,Contacted,3,Yes,No
+LD20179,2024-12-07,Website,City,Mid,SP15,Booked,3,Yes,No
+LD20180,2024-10-16,Facebook,Creta,Mid,SP16,Test Drive,3,Yes,Yes
+LD20181,2024-03-24,Walk-in,Nexon,Top,SP11,Booked,8,No,No
+LD20182,2024-04-26,Walk-in,Venue,Mid,SP17,Contacted,5,No,Yes
+LD20183,2025-12-12,Aggregator,City,Mid,SP19,New,9,No,Yes
+LD20184,2025-06-17,Walk-in,Creta,Mid,SP13,Booked,8,Yes,Yes
+LD20185,2024-08-06,Aggregator,City,Top,SP6,Test Drive,3,No,No
+LD20186,2024-04-11,Aggregator,Baleno,Base,SP15,Test Drive,6,Yes,No
+LD20187,2025-10-18,Facebook,Creta,Base,SP16,New,9,No,No
+LD20188,2025-03-31,Facebook,Nexon,Top,SP4,Test Drive,8,Yes,Yes
+LD20189,2025-10-20,Walk-in,Baleno,Top,SP8,Contacted,9,Yes,No
+LD20190,2025-06-09,Facebook,Swift,Top,SP7,Contacted,2,No,No
+LD20191,2024-09-22,Website,Venue,Base,SP17,Test Drive,2,No,Yes
+LD20192,2024-10-13,Referral,City,Top,SP16,Test Drive,5,No,No
+LD20193,2024-05-20,Website,Venue,Base,SP2,Test Drive,7,Yes,No
+LD20194,2025-02-09,Website,Nexon,Top,SP17,Lost,0,No,Yes
+LD20195,2024-10-19,Aggregator,City,Mid,SP4,Booked,3,No,No
+LD20196,2024-01-31,Referral,Baleno,Base,SP14,Test Drive,7,No,No
+LD20197,2024-06-19,Aggregator,Creta,Base,SP8,Test Drive,5,No,No
+LD20198,2024-12-20,Facebook,Creta,Top,SP5,Contacted,1,Yes,No
+LD20199,2024-07-23,Facebook,City,Mid,SP5,Booked,7,Yes,No
+LD20200,2025-04-22,Referral,Baleno,Base,SP5,Contacted,0,Yes,No
+LD20201,2024-10-17,Walk-in,City,Top,SP5,Booked,0,No,Yes
+LD20202,2024-04-20,Facebook,City,Mid,SP3,Contacted,6,No,Yes
+LD20203,2024-03-08,Website,City,Base,SP6,New,9,No,Yes
+LD20204,2025-11-25,Referral,Creta,Top,SP1,New,2,Yes,No
+LD20205,2025-01-07,Referral,Nexon,Mid,SP8,Test Drive,7,No,Yes
+LD20206,2024-07-14,Facebook,City,Base,SP13,Contacted,8,Yes,Yes
+LD20207,2024-05-05,Facebook,Creta,Base,SP20,Contacted,7,No,Yes
+LD20208,2025-11-17,Aggregator,Swift,Mid,SP6,Test Drive,0,Yes,No
+LD20209,2024-09-18,Aggregator,Baleno,Top,SP18,New,0,Yes,Yes
+LD20210,2024-06-03,Website,Swift,Top,SP18,New,5,No,No
+LD20211,2025-08-03,Referral,City,Mid,SP16,Contacted,0,No,Yes
+LD20212,2024-04-17,Walk-in,Creta,Base,SP8,Booked,7,Yes,Yes
+LD20213,2025-02-26,Walk-in,Baleno,Mid,SP17,Test Drive,5,Yes,Yes
+LD20214,2024-02-04,Referral,Venue,Mid,SP8,Booked,4,No,Yes
+LD20215,2024-02-13,Website,Baleno,Mid,SP15,Contacted,5,Yes,No
+LD20216,2025-10-16,Aggregator,Baleno,Base,SP10,Contacted,3,No,Yes
+LD20217,2025-12-23,Aggregator,City,Mid,SP1,New,0,No,Yes
+LD20218,2025-02-19,Aggregator,Swift,Mid,SP9,Lost,6,Yes,Yes
+LD20219,2024-10-11,Walk-in,Swift,Base,SP17,Test Drive,9,Yes,No
+LD20220,2025-03-22,Walk-in,Venue,Base,SP20,Test Drive,8,No,Yes
+LD20221,2025-06-01,Website,City,Mid,SP1,Lost,3,Yes,Yes
+LD20222,2025-12-30,Walk-in,Baleno,Top,SP9,Contacted,3,Yes,No
+LD20223,2024-01-27,Facebook,Nexon,Mid,SP14,Contacted,8,No,No
+LD20224,2024-08-14,Walk-in,Swift,Base,SP5,Test Drive,3,Yes,Yes
+LD20225,2025-02-28,Aggregator,Swift,Base,SP6,Booked,9,Yes,Yes
+LD20226,2025-07-21,Website,Creta,Base,SP5,Test Drive,3,Yes,Yes
+LD20227,2025-01-02,Referral,Baleno,Top,SP4,Booked,7,Yes,Yes
+LD20228,2024-11-05,Referral,City,Base,SP16,Test Drive,3,No,No
+LD20229,2024-04-14,Website,Swift,Top,SP16,Booked,8,Yes,Yes
+LD20230,2024-01-18,Facebook,City,Base,SP10,Test Drive,7,Yes,Yes
+LD20231,2024-07-23,Referral,Baleno,Base,SP14,New,4,Yes,Yes
+LD20232,2024-02-12,Aggregator,Baleno,Mid,SP13,Test Drive,8,Yes,No
+LD20233,2024-03-29,Referral,Swift,Top,SP4,Booked,7,No,No
+LD20234,2025-08-08,Referral,Venue,Mid,SP14,Test Drive,9,No,Yes
+LD20235,2024-06-05,Aggregator,City,Top,SP9,New,3,No,No
+LD20236,2024-09-22,Walk-in,City,Base,SP3,New,3,Yes,Yes
+LD20237,2024-05-13,Facebook,Creta,Base,SP10,Contacted,0,No,Yes
+LD20238,2025-04-08,Aggregator,Baleno,Top,SP15,Lost,3,No,No
+LD20239,2025-08-23,Aggregator,Baleno,Mid,SP19,New,7,Yes,No
+LD20240,2024-05-11,Website,Swift,Top,SP2,Contacted,4,Yes,No
+LD20241,2024-02-03,Facebook,Swift,Top,SP2,Test Drive,5,No,Yes
+LD20242,2024-03-23,Walk-in,Swift,Top,SP9,Booked,3,No,No
+LD20243,2024-05-11,Aggregator,Creta,Base,SP4,Booked,4,Yes,Yes
+LD20244,2025-03-03,Walk-in,Venue,Top,SP5,Lost,9,Yes,No
+LD20245,2024-07-22,Aggregator,Swift,Base,SP2,Test Drive,7,Yes,Yes
+LD20246,2024-12-01,Aggregator,Swift,Mid,SP7,Booked,8,No,Yes
+LD20247,2025-05-11,Website,Nexon,Base,SP19,Contacted,2,Yes,Yes
+LD20248,2025-03-17,Referral,Swift,Mid,SP6,Contacted,9,No,No
+LD20249,2024-09-14,Facebook,Creta,Mid,SP16,Booked,3,No,No
+LD20250,2024-10-18,Website,City,Mid,SP14,Contacted,0,No,No
+LD20251,2024-05-04,Walk-in,Venue,Base,SP12,Booked,4,Yes,Yes
+LD20252,2025-10-24,Aggregator,City,Top,SP6,Contacted,3,No,No
+LD20253,2024-06-23,Aggregator,Nexon,Base,SP13,Contacted,5,No,No
+LD20254,2025-05-06,Facebook,Baleno,Mid,SP15,Contacted,5,No,No
+LD20255,2024-03-20,Website,Baleno,Top,SP14,Test Drive,9,No,No
+LD20256,2025-09-10,Website,Swift,Base,SP8,New,5,Yes,Yes
+LD20257,2024-10-31,Walk-in,Nexon,Mid,SP20,New,2,No,No
+LD20258,2025-05-24,Website,City,Mid,SP11,Booked,6,Yes,Yes
+LD20259,2024-12-09,Website,Creta,Top,SP9,Lost,2,Yes,Yes
+LD20260,2025-07-23,Referral,Venue,Base,SP12,New,5,No,Yes
+LD20261,2024-03-31,Facebook,City,Top,SP6,Test Drive,9,No,Yes
+LD20262,2025-10-08,Website,Nexon,Top,SP19,Test Drive,0,Yes,Yes
+LD20263,2024-06-17,Walk-in,Nexon,Top,SP3,Contacted,7,Yes,No
+LD20264,2024-11-29,Aggregator,City,Top,SP1,Test Drive,6,Yes,No
+LD20265,2025-09-25,Website,Venue,Base,SP15,Contacted,8,Yes,Yes
+LD20266,2024-08-23,Website,City,Top,SP15,Contacted,2,No,No
+LD20267,2025-02-02,Aggregator,City,Mid,SP5,Booked,7,No,Yes
+LD20268,2025-08-10,Referral,Venue,Mid,SP11,Test Drive,1,No,Yes
+LD20269,2025-04-21,Facebook,Creta,Mid,SP1,Contacted,8,No,Yes
+LD20270,2025-06-18,Referral,Nexon,Top,SP10,Test Drive,0,Yes,Yes
+LD20271,2025-08-07,Walk-in,Venue,Mid,SP20,Test Drive,9,Yes,No
+LD20272,2024-03-28,Website,Swift,Base,SP11,Test Drive,6,No,Yes
+LD20273,2025-09-06,Referral,Swift,Top,SP7,Test Drive,9,No,No
+LD20274,2025-08-28,Facebook,Swift,Top,SP17,Test Drive,0,No,No
+LD20275,2024-09-09,Walk-in,Swift,Top,SP12,Contacted,5,Yes,No
+LD20276,2024-12-23,Referral,Baleno,Base,SP4,Contacted,0,No,No
+LD20277,2024-02-27,Website,Creta,Top,SP12,Test Drive,3,Yes,Yes
+LD20278,2025-02-02,Facebook,Baleno,Top,SP3,Booked,6,Yes,No
+LD20279,2025-06-04,Website,City,Mid,SP18,Contacted,1,Yes,Yes
+LD20280,2025-06-08,Website,City,Mid,SP12,Contacted,2,Yes,No
+LD20281,2025-02-20,Walk-in,Venue,Top,SP19,Booked,3,No,Yes
+LD20282,2025-01-27,Facebook,Swift,Base,SP13,New,5,Yes,Yes
+LD20283,2025-10-04,Aggregator,Venue,Mid,SP16,New,8,Yes,No
+LD20284,2024-08-09,Website,City,Top,SP8,Contacted,3,No,No
+LD20285,2024-11-24,Facebook,Swift,Mid,SP6,New,5,No,No
+LD20286,2025-01-06,Website,Nexon,Mid,SP10,Contacted,6,Yes,Yes
+LD20287,2025-05-25,Referral,Creta,Base,SP10,Contacted,3,No,No
+LD20288,2024-06-01,Referral,City,Top,SP6,Booked,5,No,No
+LD20289,2025-04-24,Facebook,Nexon,Mid,SP8,Contacted,2,Yes,No
+LD20290,2025-08-05,Walk-in,Venue,Top,SP18,Test Drive,4,No,Yes
+LD20291,2024-01-20,Aggregator,Nexon,Base,SP17,Test Drive,9,Yes,No
+LD20292,2025-08-15,Referral,Venue,Base,SP10,Contacted,3,Yes,No
+LD20293,2024-08-15,Walk-in,City,Mid,SP2,New,6,No,Yes
+LD20294,2024-12-11,Aggregator,Baleno,Base,SP12,Booked,5,No,No
+LD20295,2024-01-19,Referral,Creta,Mid,SP20,New,6,No,Yes
+LD20296,2025-03-19,Aggregator,Nexon,Top,SP10,New,5,Yes,Yes
+LD20297,2025-11-07,Website,Nexon,Mid,SP9,New,1,No,Yes
+LD20298,2025-01-02,Facebook,City,Mid,SP16,Contacted,6,Yes,Yes
+LD20299,2025-09-10,Referral,City,Base,SP7,Booked,7,No,Yes
+LD20300,2025-12-26,Referral,Venue,Top,SP9,Test Drive,6,Yes,Yes
+LD20301,2024-05-26,Website,Swift,Top,SP6,Contacted,3,No,Yes
+LD20302,2025-11-23,Referral,Swift,Mid,SP10,Lost,3,Yes,Yes
+LD20303,2025-05-18,Referral,Swift,Top,SP7,New,4,No,Yes
+LD20304,2025-03-05,Referral,Venue,Top,SP18,Test Drive,8,No,Yes
+LD20305,2025-03-15,Referral,Swift,Mid,SP11,Booked,4,No,Yes
+LD20306,2024-07-16,Referral,City,Mid,SP1,Booked,1,No,Yes
+LD20307,2024-10-13,Walk-in,Baleno,Top,SP19,New,4,No,Yes
+LD20308,2025-07-18,Referral,Baleno,Mid,SP5,Test Drive,2,Yes,Yes
+LD20309,2025-01-03,Website,Baleno,Base,SP6,Contacted,9,Yes,No
+LD20310,2024-08-27,Referral,Swift,Top,SP7,Contacted,7,No,Yes
+LD20311,2024-10-13,Aggregator,Baleno,Mid,SP4,Contacted,9,Yes,No
+LD20312,2025-11-30,Aggregator,Nexon,Top,SP16,Booked,9,Yes,No
+LD20313,2025-01-29,Website,Swift,Top,SP10,New,1,No,No
+LD20314,2025-06-01,Walk-in,Nexon,Base,SP15,New,3,No,No
+LD20315,2025-07-14,Website,City,Base,SP13,New,4,Yes,No
+LD20316,2025-12-12,Walk-in,Nexon,Top,SP8,New,3,Yes,No
+LD20317,2024-02-29,Facebook,City,Base,SP13,New,4,No,Yes
+LD20318,2025-06-28,Aggregator,Venue,Mid,SP7,Lost,9,No,No
+LD20319,2024-10-29,Aggregator,Venue,Top,SP17,Contacted,3,No,Yes
+LD20320,2024-08-31,Aggregator,Nexon,Base,SP4,New,2,Yes,Yes
+LD20321,2025-11-14,Walk-in,Creta,Top,SP7,Test Drive,0,No,No
+LD20322,2024-07-25,Website,City,Top,SP16,Booked,3,Yes,Yes
+LD20323,2025-01-09,Walk-in,Swift,Mid,SP2,Booked,8,No,Yes
+LD20324,2024-10-09,Aggregator,Creta,Mid,SP14,Booked,0,No,No
+LD20325,2025-04-22,Aggregator,City,Mid,SP14,New,6,Yes,Yes
+LD20326,2024-01-22,Aggregator,Swift,Base,SP8,Booked,2,No,No
+LD20327,2025-07-12,Aggregator,City,Base,SP6,Test Drive,7,Yes,No
+LD20328,2024-12-14,Facebook,City,Base,SP7,Test Drive,5,Yes,No
+LD20329,2025-05-03,Aggregator,Swift,Mid,SP7,Lost,0,Yes,No
+LD20330,2025-10-31,Walk-in,City,Top,SP2,Booked,9,No,No
+LD20331,2024-09-14,Aggregator,City,Mid,SP4,Booked,4,No,Yes
+LD20332,2025-10-16,Referral,City,Base,SP13,New,7,No,No
+LD20333,2024-02-16,Facebook,Venue,Base,SP10,Contacted,2,Yes,No
+LD20334,2024-01-27,Aggregator,Baleno,Base,SP9,Lost,3,No,Yes
+LD20335,2024-01-27,Referral,City,Mid,SP15,Test Drive,6,No,No
+LD20336,2025-01-31,Walk-in,Swift,Base,SP12,New,5,No,No
+LD20337,2024-05-24,Facebook,Nexon,Mid,SP10,Booked,6,No,No
+LD20338,2025-08-09,Aggregator,City,Top,SP19,New,8,No,No
+LD20339,2025-11-29,Walk-in,Venue,Mid,SP5,Booked,8,Yes,No
+LD20340,2025-06-05,Referral,Venue,Base,SP7,Booked,1,No,No
+LD20341,2024-04-30,Facebook,Nexon,Top,SP20,Contacted,2,No,No
+LD20342,2025-04-06,Aggregator,City,Base,SP11,Contacted,3,No,Yes
+LD20343,2025-11-07,Walk-in,Creta,Top,SP16,Contacted,5,Yes,No
+LD20344,2025-01-16,Facebook,Nexon,Base,SP13,Booked,4,No,Yes
+LD20345,2025-11-03,Referral,Baleno,Mid,SP4,Test Drive,5,Yes,No
+LD20346,2025-02-21,Aggregator,Swift,Base,SP16,Test Drive,7,Yes,No
+LD20347,2024-11-22,Facebook,Swift,Mid,SP13,Test Drive,1,No,No
+LD20348,2025-01-25,Referral,Swift,Mid,SP1,Contacted,5,Yes,Yes
+LD20349,2024-10-23,Referral,Swift,Top,SP4,Contacted,8,Yes,Yes
+LD20350,2025-09-21,Walk-in,Venue,Mid,SP15,Booked,4,Yes,Yes
+LD20351,2024-03-24,Referral,Baleno,Mid,SP16,Lost,0,No,No
+LD20352,2024-05-25,Referral,City,Mid,SP4,New,7,Yes,No
+LD20353,2024-06-19,Website,City,Top,SP17,New,3,No,Yes
+LD20354,2024-11-29,Referral,Creta,Base,SP11,Contacted,7,No,Yes
+LD20355,2025-02-27,Aggregator,City,Base,SP5,Test Drive,3,Yes,No
+LD20356,2024-11-04,Facebook,Baleno,Mid,SP13,Contacted,7,Yes,No
+LD20357,2025-06-09,Aggregator,City,Mid,SP12,Lost,8,Yes,No
+LD20358,2025-10-22,Aggregator,Venue,Base,SP3,New,4,No,Yes
+LD20359,2025-07-22,Walk-in,Nexon,Mid,SP4,New,4,No,Yes
+LD20360,2024-12-12,Website,City,Base,SP10,New,1,Yes,No
+LD20361,2024-10-28,Website,Swift,Top,SP9,Booked,8,Yes,No
+LD20362,2024-12-12,Aggregator,Swift,Mid,SP10,New,3,No,No
+LD20363,2025-02-11,Facebook,Nexon,Mid,SP13,Contacted,2,No,Yes
+LD20364,2024-05-12,Website,Swift,Base,SP1,Contacted,1,No,No
+LD20365,2025-11-12,Website,Swift,Base,SP12,Test Drive,2,Yes,Yes
+LD20366,2025-09-05,Aggregator,Venue,Top,SP11,New,3,Yes,Yes
+LD20367,2024-04-15,Website,Venue,Mid,SP8,Test Drive,8,No,Yes
+LD20368,2024-06-19,Walk-in,Venue,Base,SP14,Contacted,5,No,No
+LD20369,2025-10-01,Aggregator,City,Top,SP14,Lost,9,Yes,No
+LD20370,2024-09-06,Website,Nexon,Base,SP20,Booked,4,No,Yes
+LD20371,2025-06-27,Website,Swift,Base,SP17,Contacted,8,Yes,Yes
+LD20372,2025-12-28,Website,Creta,Top,SP19,Lost,7,No,No
+LD20373,2024-09-18,Aggregator,Nexon,Top,SP20,New,5,No,Yes
+LD20374,2025-05-08,Facebook,Creta,Top,SP17,Booked,2,No,No
+LD20375,2024-08-31,Referral,Swift,Top,SP6,Contacted,6,No,No
+LD20376,2025-03-26,Website,Baleno,Top,SP14,Contacted,9,Yes,No
+LD20377,2024-10-16,Referral,Nexon,Top,SP18,New,5,No,No
+LD20378,2024-09-19,Referral,City,Mid,SP17,Test Drive,7,No,Yes
+LD20379,2024-11-09,Website,Creta,Top,SP6,New,5,Yes,No
+LD20380,2024-03-25,Website,Nexon,Mid,SP5,Test Drive,9,Yes,Yes
+LD20381,2025-02-18,Referral,Nexon,Base,SP13,New,3,Yes,Yes
+LD20382,2024-11-24,Facebook,Venue,Base,SP16,Booked,9,No,Yes
+LD20383,2024-02-14,Referral,Baleno,Top,SP9,Test Drive,6,Yes,No
+LD20384,2024-11-28,Facebook,Venue,Base,SP12,Booked,6,No,No
+LD20385,2025-04-09,Walk-in,Baleno,Top,SP10,Booked,7,Yes,Yes
+LD20386,2024-07-18,Facebook,Baleno,Top,SP13,New,1,No,No
+LD20387,2024-07-19,Aggregator,City,Mid,SP19,New,5,Yes,No
+LD20388,2024-11-24,Website,Nexon,Base,SP16,Contacted,2,Yes,No
+LD20389,2025-11-10,Walk-in,Venue,Top,SP17,Lost,7,Yes,No
+LD20390,2024-08-27,Referral,Venue,Base,SP16,Test Drive,3,No,No
+LD20391,2025-12-02,Facebook,Creta,Mid,SP14,Booked,3,No,Yes
+LD20392,2025-08-05,Walk-in,Nexon,Base,SP16,Booked,1,Yes,No
+LD20393,2025-10-18,Aggregator,Swift,Mid,SP15,Lost,5,No,No
+LD20394,2024-12-24,Facebook,Swift,Mid,SP12,Test Drive,5,No,Yes
+LD20395,2025-12-21,Referral,Creta,Mid,SP5,Test Drive,0,No,No
+LD20396,2024-12-25,Referral,Baleno,Top,SP11,Booked,7,No,Yes
+LD20397,2025-01-12,Facebook,Creta,Top,SP5,Booked,2,No,Yes
+LD20398,2025-01-19,Aggregator,Creta,Base,SP11,Test Drive,0,Yes,No
+LD20399,2025-12-20,Website,Venue,Top,SP2,Test Drive,9,No,Yes
+LD20400,2025-04-09,Website,Creta,Top,SP19,Test Drive,0,Yes,Yes
+LD20401,2024-08-09,Referral,Baleno,Base,SP17,Contacted,0,Yes,No
+LD20402,2025-11-05,Aggregator,Swift,Mid,SP19,Booked,4,Yes,Yes
+LD20403,2024-12-30,Referral,City,Mid,SP12,Test Drive,4,No,No
+LD20404,2024-03-12,Website,Nexon,Base,SP20,New,0,No,Yes
+LD20405,2024-08-27,Referral,Creta,Top,SP5,New,4,Yes,No
+LD20406,2025-05-18,Facebook,Nexon,Base,SP12,Booked,6,Yes,Yes
+LD20407,2025-02-17,Facebook,Creta,Base,SP16,Test Drive,4,Yes,No
+LD20408,2024-05-06,Aggregator,Nexon,Top,SP1,Contacted,8,Yes,No
+LD20409,2025-05-01,Website,Venue,Base,SP2,New,3,No,Yes
+LD20410,2025-08-19,Aggregator,Venue,Top,SP10,Test Drive,8,Yes,Yes
+LD20411,2025-06-10,Aggregator,Nexon,Top,SP2,New,7,Yes,No
+LD20412,2024-09-04,Website,Creta,Base,SP10,Contacted,0,No,Yes
+LD20413,2025-04-26,Walk-in,Creta,Mid,SP18,Test Drive,3,Yes,Yes
+LD20414,2024-11-07,Walk-in,Baleno,Top,SP1,Test Drive,6,No,Yes
+LD20415,2025-03-19,Referral,Swift,Mid,SP5,Lost,0,Yes,No
+LD20416,2024-10-09,Walk-in,Swift,Top,SP12,New,7,No,No
+LD20417,2024-01-02,Facebook,City,Mid,SP17,Contacted,1,No,No
+LD20418,2024-03-14,Aggregator,Swift,Base,SP19,New,7,No,Yes
+LD20419,2024-03-04,Referral,City,Top,SP18,New,3,Yes,Yes
+LD20420,2024-12-12,Aggregator,Venue,Base,SP13,New,7,No,Yes
+LD20421,2024-11-19,Website,City,Base,SP3,Booked,0,Yes,No
+LD20422,2024-08-26,Walk-in,City,Base,SP10,Contacted,4,No,No
+LD20423,2025-01-31,Website,Swift,Top,SP14,Lost,8,No,No
+LD20424,2024-12-02,Referral,Creta,Base,SP8,New,6,No,No
+LD20425,2024-12-06,Facebook,Venue,Base,SP10,Test Drive,2,Yes,Yes
+LD20426,2024-10-05,Walk-in,Baleno,Top,SP2,Lost,3,No,Yes
+LD20427,2024-12-18,Website,City,Base,SP13,New,9,No,Yes
+LD20428,2025-04-07,Walk-in,City,Top,SP5,Contacted,6,No,No
+LD20429,2025-04-06,Aggregator,Nexon,Base,SP11,Booked,5,No,Yes
+LD20430,2025-12-13,Facebook,City,Mid,SP1,Test Drive,3,Yes,Yes
+LD20431,2024-10-19,Walk-in,Creta,Base,SP10,Test Drive,2,Yes,No
+LD20432,2025-02-10,Facebook,Baleno,Mid,SP13,Contacted,1,No,No
+LD20433,2024-06-10,Aggregator,Nexon,Top,SP4,Booked,9,No,Yes
+LD20434,2025-05-17,Aggregator,Swift,Mid,SP10,Test Drive,8,No,No
+LD20435,2025-03-23,Website,Venue,Top,SP12,New,2,No,Yes
+LD20436,2025-11-25,Referral,Creta,Base,SP14,Lost,6,Yes,Yes
+LD20437,2025-03-30,Website,Baleno,Mid,SP3,Test Drive,0,No,No
+LD20438,2024-09-21,Facebook,Venue,Base,SP2,Test Drive,7,No,No
+LD20439,2024-05-11,Website,Swift,Mid,SP19,Booked,0,Yes,Yes
+LD20440,2024-04-29,Walk-in,Venue,Top,SP11,Test Drive,1,No,No
+LD20441,2024-08-06,Website,Nexon,Top,SP7,New,0,No,No
+LD20442,2025-02-20,Referral,City,Top,SP18,Test Drive,3,Yes,Yes
+LD20443,2025-11-02,Referral,City,Top,SP14,Booked,1,No,Yes
+LD20444,2025-05-19,Facebook,Creta,Base,SP7,Test Drive,0,Yes,Yes
+LD20445,2024-10-26,Aggregator,Venue,Base,SP7,Lost,0,No,No
+LD20446,2024-04-18,Referral,City,Base,SP9,New,1,Yes,No
+LD20447,2024-08-25,Facebook,Creta,Base,SP12,Contacted,5,Yes,No
+LD20448,2024-10-19,Referral,Creta,Base,SP6,Test Drive,1,No,Yes
+LD20449,2025-08-01,Referral,Nexon,Top,SP7,Test Drive,1,No,No
+LD20450,2024-07-05,Aggregator,Creta,Base,SP4,Contacted,7,No,Yes
+LD20451,2024-02-05,Walk-in,Swift,Base,SP16,Booked,4,No,No
+LD20452,2025-07-14,Facebook,City,Base,SP7,New,7,Yes,Yes
+LD20453,2024-09-12,Referral,City,Top,SP8,New,7,No,No
+LD20454,2025-03-10,Referral,Baleno,Top,SP8,Lost,1,No,Yes
+LD20455,2025-09-10,Website,Swift,Top,SP20,Contacted,6,No,Yes
+LD20456,2024-01-08,Walk-in,City,Top,SP3,Lost,8,Yes,Yes
+LD20457,2024-06-26,Aggregator,Nexon,Base,SP9,Contacted,7,Yes,Yes
+LD20458,2024-08-29,Facebook,City,Base,SP19,New,8,Yes,No
+LD20459,2024-02-10,Referral,Baleno,Mid,SP13,Booked,7,Yes,No
+LD20460,2024-12-22,Facebook,Venue,Base,SP7,Booked,3,Yes,No
+LD20461,2024-04-22,Aggregator,Venue,Top,SP20,Contacted,9,No,No
+LD20462,2024-06-14,Walk-in,Swift,Top,SP15,New,6,No,No
+LD20463,2025-05-18,Website,Creta,Base,SP19,Test Drive,8,No,Yes
+LD20464,2024-03-18,Walk-in,Baleno,Mid,SP2,New,8,Yes,No
+LD20465,2025-12-19,Website,Baleno,Top,SP12,Booked,3,No,No
+LD20466,2024-07-14,Facebook,City,Mid,SP8,Contacted,6,Yes,Yes
+LD20467,2025-02-05,Walk-in,Nexon,Top,SP8,Booked,5,Yes,No
+LD20468,2024-03-04,Walk-in,City,Top,SP13,Contacted,2,Yes,No
+LD20469,2025-10-13,Walk-in,Nexon,Base,SP1,Test Drive,9,Yes,No
+LD20470,2025-02-28,Aggregator,Baleno,Top,SP10,Booked,5,Yes,Yes
+LD20471,2024-02-11,Facebook,Creta,Mid,SP9,New,7,No,Yes
+LD20472,2025-01-07,Website,Venue,Mid,SP2,Booked,1,No,No
+LD20473,2024-11-01,Walk-in,Swift,Base,SP19,New,2,No,Yes
+LD20474,2024-07-27,Facebook,Nexon,Top,SP14,Contacted,7,No,No
+LD20475,2025-04-11,Aggregator,Venue,Mid,SP10,Contacted,3,Yes,Yes
+LD20476,2024-10-30,Aggregator,Swift,Base,SP10,Booked,3,No,Yes
+LD20477,2025-08-07,Facebook,Creta,Mid,SP8,New,1,No,No
+LD20478,2025-01-26,Website,Baleno,Base,SP14,Test Drive,9,Yes,Yes
+LD20479,2024-06-01,Facebook,Creta,Mid,SP13,Test Drive,0,Yes,No
+LD20480,2025-10-08,Facebook,Nexon,Top,SP6,Contacted,6,Yes,Yes
+LD20481,2024-12-27,Referral,Baleno,Mid,SP13,Contacted,3,No,No
+LD20482,2024-09-20,Aggregator,City,Mid,SP3,Contacted,5,No,Yes
+LD20483,2024-08-03,Website,Swift,Base,SP20,New,7,No,No
+LD20484,2025-12-21,Referral,City,Base,SP13,Contacted,6,Yes,No
+LD20485,2025-12-16,Facebook,Baleno,Base,SP19,Booked,6,Yes,No
+LD20486,2025-09-13,Aggregator,Swift,Mid,SP16,Booked,5,Yes,No
+LD20487,2025-06-26,Referral,Swift,Base,SP4,Contacted,3,Yes,Yes
+LD20488,2025-06-07,Referral,City,Top,SP3,Test Drive,3,Yes,No
+LD20489,2025-09-30,Website,Swift,Base,SP15,New,8,Yes,Yes
+LD20490,2024-07-12,Facebook,Baleno,Base,SP15,Test Drive,4,No,Yes
+LD20491,2025-10-13,Website,Nexon,Top,SP18,Lost,8,Yes,No
+LD20492,2024-01-27,Referral,Nexon,Base,SP7,Contacted,8,Yes,No
+LD20493,2024-02-15,Referral,Baleno,Base,SP20,Test Drive,3,Yes,No
+LD20494,2025-10-08,Website,City,Mid,SP5,Booked,1,Yes,No
+LD20495,2024-02-27,Referral,Creta,Mid,SP8,Test Drive,1,Yes,Yes
+LD20496,2024-01-13,Walk-in,Baleno,Base,SP10,Contacted,8,Yes,No
+LD20497,2025-09-03,Aggregator,Nexon,Top,SP1,New,8,Yes,No
+LD20498,2024-02-18,Facebook,Baleno,Base,SP11,Contacted,2,Yes,No
+LD20499,2024-04-03,Aggregator,Swift,Base,SP3,Contacted,4,Yes,No
+LD20500,2025-08-29,Facebook,Swift,Base,SP3,Test Drive,4,No,Yes
+LD20501,2025-10-18,Referral,Baleno,Mid,SP15,Contacted,1,No,Yes
+LD20502,2025-08-06,Website,City,Top,SP17,Booked,1,No,Yes
+LD20503,2025-03-26,Website,Creta,Top,SP18,New,9,No,No
+LD20504,2025-01-13,Referral,Swift,Top,SP8,Contacted,0,Yes,Yes
+LD20505,2024-01-10,Facebook,Nexon,Mid,SP13,Test Drive,1,No,No
+LD20506,2025-11-04,Referral,Swift,Mid,SP10,New,6,No,Yes
+LD20507,2025-12-26,Facebook,Nexon,Base,SP3,Test Drive,0,Yes,No
+LD20508,2025-05-30,Referral,Creta,Mid,SP20,Contacted,0,Yes,Yes
+LD20509,2024-08-11,Referral,Swift,Base,SP14,New,8,Yes,No
+LD20510,2025-01-15,Referral,City,Mid,SP13,New,1,Yes,No
+LD20511,2025-06-24,Website,Nexon,Base,SP3,Contacted,3,No,Yes
+LD20512,2024-10-28,Facebook,Swift,Mid,SP13,Lost,2,Yes,No
+LD20513,2024-07-21,Referral,Swift,Top,SP20,New,3,Yes,Yes
+LD20514,2025-08-11,Aggregator,Baleno,Base,SP9,Booked,6,Yes,Yes
+LD20515,2025-07-24,Aggregator,City,Mid,SP16,Contacted,9,No,Yes
+LD20516,2024-07-14,Website,City,Mid,SP8,Test Drive,1,No,No
+LD20517,2024-11-17,Walk-in,Baleno,Base,SP12,Test Drive,1,Yes,Yes
+LD20518,2025-02-21,Website,Nexon,Mid,SP12,Lost,8,No,No
+LD20519,2025-09-10,Walk-in,Venue,Top,SP19,Booked,5,Yes,No
+LD20520,2024-12-07,Website,Creta,Base,SP17,Lost,6,No,Yes
+LD20521,2025-01-23,Aggregator,City,Base,SP15,Booked,4,Yes,Yes
+LD20522,2024-01-09,Referral,Venue,Base,SP18,Contacted,4,No,No
+LD20523,2025-06-15,Facebook,Nexon,Base,SP7,Lost,3,No,No
+LD20524,2024-05-28,Referral,Creta,Base,SP13,Lost,7,No,Yes
+LD20525,2025-01-17,Aggregator,City,Top,SP19,New,6,Yes,No
+LD20526,2025-06-12,Facebook,Swift,Base,SP16,Lost,9,No,No
+LD20527,2024-01-12,Walk-in,City,Top,SP11,Test Drive,1,No,No
+LD20528,2025-04-20,Walk-in,Creta,Top,SP5,Lost,1,No,Yes
+LD20529,2025-08-16,Aggregator,Venue,Top,SP2,Lost,5,Yes,Yes
+LD20530,2025-08-01,Facebook,Swift,Base,SP1,Booked,0,No,Yes
+LD20531,2025-10-06,Referral,Creta,Top,SP16,Booked,6,Yes,No
+LD20532,2024-02-22,Aggregator,Nexon,Base,SP5,New,7,Yes,Yes
+LD20533,2025-03-11,Walk-in,Creta,Top,SP7,New,9,Yes,Yes
+LD20534,2024-07-24,Aggregator,City,Base,SP9,New,7,Yes,No
+LD20535,2024-02-23,Referral,Nexon,Mid,SP4,New,2,Yes,Yes
+LD20536,2025-08-02,Website,Baleno,Mid,SP19,Contacted,6,No,Yes
+LD20537,2025-05-04,Website,Baleno,Top,SP20,Test Drive,0,Yes,Yes
+LD20538,2024-12-09,Referral,Swift,Mid,SP15,Contacted,2,No,No
+LD20539,2024-06-17,Facebook,Creta,Top,SP7,Booked,5,No,No
+LD20540,2024-06-09,Aggregator,Venue,Top,SP18,Booked,8,Yes,Yes
+LD20541,2025-06-10,Referral,Swift,Top,SP5,Test Drive,4,Yes,No
+LD20542,2025-12-03,Website,Nexon,Mid,SP13,Contacted,4,Yes,Yes
+LD20543,2025-06-10,Walk-in,Swift,Top,SP3,Contacted,8,No,Yes
+LD20544,2024-10-13,Referral,City,Mid,SP6,New,8,No,Yes
+LD20545,2025-02-15,Referral,Nexon,Mid,SP12,Contacted,5,No,Yes
+LD20546,2025-06-05,Referral,Venue,Base,SP18,Booked,4,No,No
+LD20547,2025-07-22,Website,Creta,Mid,SP18,Test Drive,9,No,Yes
+LD20548,2024-07-17,Website,Nexon,Base,SP4,Booked,1,No,No
+LD20549,2024-06-09,Referral,Creta,Top,SP20,Contacted,7,No,No
+LD20550,2025-01-23,Referral,Creta,Top,SP14,New,7,No,Yes
+LD20551,2025-04-18,Facebook,Swift,Base,SP14,Booked,6,No,Yes
+LD20552,2025-01-15,Walk-in,City,Top,SP1,New,7,Yes,Yes
+LD20553,2025-09-22,Aggregator,Swift,Base,SP11,Test Drive,2,No,Yes
+LD20554,2025-08-14,Aggregator,Baleno,Base,SP9,Booked,2,Yes,No
+LD20555,2024-05-03,Aggregator,Baleno,Top,SP18,New,1,Yes,No
+LD20556,2024-03-12,Website,Creta,Base,SP5,Test Drive,0,No,No
+LD20557,2024-06-16,Website,City,Base,SP10,Test Drive,2,No,No
+LD20558,2024-10-10,Facebook,Nexon,Base,SP15,Booked,2,No,Yes
+LD20559,2025-05-08,Website,Creta,Top,SP10,New,6,No,Yes
+LD20560,2024-02-05,Referral,Nexon,Top,SP16,Booked,9,No,No
+LD20561,2024-06-23,Walk-in,Creta,Top,SP4,New,8,No,No
+LD20562,2024-07-17,Walk-in,Swift,Top,SP4,Test Drive,0,Yes,No
+LD20563,2024-04-25,Walk-in,Creta,Top,SP8,Contacted,7,Yes,Yes
+LD20564,2024-11-10,Walk-in,Creta,Mid,SP6,New,0,No,Yes
+LD20565,2024-08-07,Aggregator,City,Mid,SP11,Contacted,2,Yes,No
+LD20566,2025-07-31,Aggregator,City,Base,SP13,New,3,Yes,Yes
+LD20567,2024-05-13,Referral,Nexon,Mid,SP19,Contacted,7,Yes,No
+LD20568,2025-09-22,Facebook,City,Top,SP11,New,0,Yes,No
+LD20569,2024-05-01,Website,Creta,Top,SP2,Booked,1,Yes,Yes
+LD20570,2025-02-24,Website,City,Top,SP3,New,4,Yes,Yes
+LD20571,2025-05-06,Aggregator,City,Base,SP15,Booked,5,No,No
+LD20572,2025-08-21,Walk-in,Venue,Base,SP13,Booked,4,Yes,Yes
+LD20573,2024-10-15,Referral,Venue,Base,SP10,Contacted,2,Yes,Yes
+LD20574,2025-10-10,Facebook,Baleno,Base,SP5,Contacted,9,Yes,Yes
+LD20575,2024-02-22,Aggregator,Swift,Base,SP11,Contacted,6,Yes,Yes
+LD20576,2024-07-23,Referral,Swift,Base,SP14,Lost,0,No,Yes
+LD20577,2024-12-13,Referral,City,Mid,SP20,Test Drive,1,Yes,Yes
+LD20578,2024-02-20,Aggregator,Baleno,Top,SP15,Lost,8,No,No
+LD20579,2024-02-09,Referral,Baleno,Mid,SP13,Contacted,3,Yes,No
+LD20580,2024-09-06,Walk-in,Nexon,Base,SP3,Booked,7,No,No
+LD20581,2024-08-05,Referral,Venue,Top,SP9,Contacted,8,Yes,No
+LD20582,2024-06-27,Facebook,Baleno,Top,SP8,Booked,6,Yes,Yes
+LD20583,2025-07-04,Referral,Creta,Top,SP15,New,0,Yes,No
+LD20584,2024-07-01,Website,Nexon,Mid,SP1,Test Drive,4,No,Yes
+LD20585,2024-06-12,Referral,City,Top,SP2,Test Drive,5,No,No
+LD20586,2025-01-11,Aggregator,Creta,Base,SP9,Test Drive,7,No,No
+LD20587,2025-12-05,Website,Swift,Base,SP17,Contacted,9,No,Yes
+LD20588,2025-05-11,Aggregator,Venue,Mid,SP9,Test Drive,7,Yes,Yes
+LD20589,2025-08-19,Facebook,Creta,Mid,SP1,New,8,Yes,No
+LD20590,2025-04-05,Walk-in,City,Base,SP8,Test Drive,8,No,Yes
+LD20591,2025-04-18,Facebook,Creta,Mid,SP5,Test Drive,3,Yes,Yes
+LD20592,2025-11-15,Website,Creta,Top,SP11,Contacted,5,Yes,Yes
+LD20593,2024-02-06,Walk-in,Baleno,Mid,SP6,Booked,2,Yes,Yes
+LD20594,2025-08-21,Referral,Venue,Top,SP17,New,0,No,No
+LD20595,2025-10-02,Website,Swift,Top,SP18,New,5,No,Yes
+LD20596,2025-12-06,Walk-in,City,Top,SP18,Contacted,0,Yes,No
+LD20597,2024-11-14,Aggregator,Nexon,Top,SP5,Booked,8,No,No
+LD20598,2025-07-08,Walk-in,Nexon,Top,SP5,Test Drive,5,No,No
+LD20599,2025-02-15,Aggregator,City,Base,SP19,Booked,0,No,No
+LD20600,2024-12-21,Aggregator,Swift,Base,SP13,Test Drive,2,No,No
+LD20601,2025-11-01,Walk-in,City,Base,SP7,Booked,0,Yes,No
+LD20602,2025-09-08,Facebook,Baleno,Top,SP14,Contacted,1,No,No
+LD20603,2024-08-16,Facebook,Nexon,Mid,SP8,Booked,5,No,Yes
+LD20604,2025-12-29,Aggregator,Nexon,Mid,SP3,Contacted,6,Yes,No
+LD20605,2024-09-20,Website,Creta,Top,SP4,Test Drive,0,No,Yes
+LD20606,2025-05-01,Walk-in,Baleno,Mid,SP10,New,9,Yes,Yes
+LD20607,2025-07-14,Website,Nexon,Top,SP4,Lost,4,Yes,No
+LD20608,2024-12-17,Facebook,Baleno,Mid,SP18,Booked,5,No,No
+LD20609,2025-03-17,Website,Baleno,Top,SP12,Booked,3,Yes,No
+LD20610,2025-09-26,Referral,Swift,Mid,SP20,New,5,Yes,Yes
+LD20611,2025-04-03,Referral,Nexon,Mid,SP20,New,4,No,Yes
+LD20612,2024-01-25,Facebook,Venue,Base,SP15,Contacted,6,No,Yes
+LD20613,2024-05-10,Website,Swift,Mid,SP13,Test Drive,3,No,No
+LD20614,2025-01-04,Walk-in,Swift,Mid,SP12,Booked,0,Yes,Yes
+LD20615,2025-03-11,Facebook,Baleno,Top,SP8,Contacted,1,Yes,No
+LD20616,2024-08-11,Referral,Venue,Mid,SP9,Contacted,5,Yes,Yes
+LD20617,2025-09-02,Facebook,Swift,Mid,SP20,Contacted,9,Yes,No
+LD20618,2024-12-17,Website,Venue,Mid,SP9,Booked,1,Yes,No
+LD20619,2025-04-29,Website,Nexon,Mid,SP17,Contacted,4,Yes,No
+LD20620,2024-07-15,Website,Baleno,Mid,SP1,Lost,3,No,Yes
+LD20621,2024-04-18,Aggregator,Swift,Base,SP6,New,6,Yes,Yes
+LD20622,2024-08-07,Website,Venue,Mid,SP7,Booked,3,Yes,Yes
+LD20623,2025-12-20,Referral,City,Top,SP9,Test Drive,6,No,Yes
+LD20624,2024-11-14,Referral,Swift,Top,SP10,New,7,Yes,Yes
+LD20625,2024-03-22,Aggregator,Swift,Mid,SP4,Booked,6,Yes,No
+LD20626,2025-06-20,Referral,Swift,Mid,SP16,Contacted,1,Yes,No
+LD20627,2025-11-28,Referral,Venue,Mid,SP12,Test Drive,0,No,No
+LD20628,2025-03-07,Facebook,Creta,Base,SP9,Test Drive,4,No,No
+LD20629,2024-01-08,Website,Nexon,Top,SP3,New,6,No,Yes
+LD20630,2025-09-27,Facebook,Swift,Base,SP9,Booked,0,No,Yes
+LD20631,2024-05-28,Facebook,City,Base,SP17,Test Drive,7,Yes,No
+LD20632,2024-04-07,Referral,City,Mid,SP14,Booked,2,Yes,No
+LD20633,2025-12-28,Walk-in,Baleno,Mid,SP5,Contacted,6,No,Yes
+LD20634,2024-04-10,Website,Creta,Top,SP1,New,2,Yes,Yes
+LD20635,2025-12-30,Walk-in,Creta,Mid,SP1,Contacted,3,Yes,No
+LD20636,2025-01-01,Referral,Venue,Top,SP3,Lost,7,Yes,No
+LD20637,2025-04-06,Aggregator,Baleno,Base,SP9,Lost,1,No,Yes
+LD20638,2025-02-17,Facebook,Venue,Top,SP6,Contacted,5,Yes,Yes
+LD20639,2024-09-15,Referral,Baleno,Top,SP9,Contacted,9,No,Yes
+LD20640,2024-12-21,Referral,Nexon,Top,SP4,Booked,8,Yes,No
+LD20641,2024-01-11,Walk-in,Creta,Base,SP20,Booked,9,Yes,No
+LD20642,2025-02-19,Aggregator,Nexon,Base,SP19,Booked,8,No,Yes
+LD20643,2025-07-24,Facebook,Venue,Mid,SP5,New,4,No,No
+LD20644,2024-09-06,Aggregator,Baleno,Mid,SP5,New,2,Yes,No
+LD20645,2025-10-13,Aggregator,Creta,Top,SP14,Contacted,5,No,Yes
+LD20646,2025-07-03,Aggregator,Creta,Top,SP10,New,8,No,No
+LD20647,2024-05-01,Website,Swift,Base,SP16,Booked,5,Yes,No
+LD20648,2024-03-05,Aggregator,Venue,Base,SP6,Test Drive,3,No,No
+LD20649,2025-10-19,Referral,Swift,Base,SP20,Booked,4,No,Yes
+LD20650,2024-10-28,Website,Creta,Top,SP14,New,6,No,Yes
+LD20651,2024-05-04,Website,Venue,Top,SP18,Test Drive,9,No,No
+LD20652,2024-11-07,Aggregator,Venue,Base,SP9,Test Drive,2,No,No
+LD20653,2024-07-09,Referral,Nexon,Top,SP7,Contacted,8,No,No
+LD20654,2025-03-25,Facebook,City,Base,SP18,Test Drive,0,Yes,No
+LD20655,2025-11-24,Aggregator,Baleno,Mid,SP10,Test Drive,7,No,Yes
+LD20656,2024-06-07,Website,City,Base,SP2,Booked,4,No,No
+LD20657,2024-12-18,Facebook,City,Top,SP13,New,9,Yes,No
+LD20658,2025-11-04,Facebook,Creta,Top,SP6,Booked,8,No,No
+LD20659,2024-09-19,Website,Nexon,Top,SP9,Lost,1,No,No
+LD20660,2025-12-29,Facebook,Baleno,Top,SP20,Booked,0,Yes,Yes
+LD20661,2025-02-09,Referral,City,Base,SP8,Booked,9,Yes,No
+LD20662,2025-11-23,Referral,City,Base,SP10,New,6,No,Yes
+LD20663,2025-08-25,Aggregator,Venue,Mid,SP16,Test Drive,9,No,Yes
+LD20664,2024-01-17,Aggregator,Creta,Base,SP15,Booked,8,Yes,No
+LD20665,2025-09-28,Facebook,City,Mid,SP13,Test Drive,4,No,Yes
+LD20666,2024-09-16,Website,Baleno,Base,SP18,Contacted,3,No,Yes
+LD20667,2024-12-20,Referral,Swift,Base,SP6,Lost,3,Yes,Yes
+LD20668,2025-05-03,Walk-in,Swift,Top,SP20,Test Drive,7,Yes,No
+LD20669,2024-08-01,Aggregator,Creta,Mid,SP9,Lost,0,Yes,Yes
+LD20670,2024-08-26,Referral,Swift,Top,SP18,Test Drive,0,No,Yes
+LD20671,2024-06-28,Facebook,Venue,Top,SP7,Booked,7,Yes,No
+LD20672,2025-02-22,Referral,Venue,Base,SP5,Booked,1,No,Yes
+LD20673,2025-11-14,Referral,Baleno,Base,SP11,Test Drive,9,Yes,No
+LD20674,2024-05-22,Facebook,Nexon,Mid,SP13,New,5,Yes,No
+LD20675,2024-11-12,Aggregator,Creta,Mid,SP3,New,1,No,No
+LD20676,2024-08-31,Aggregator,Creta,Base,SP1,Test Drive,4,Yes,No
+LD20677,2024-08-19,Walk-in,Swift,Mid,SP4,Lost,2,No,No
+LD20678,2025-11-14,Walk-in,City,Base,SP19,Test Drive,6,No,Yes
+LD20679,2025-08-11,Aggregator,City,Base,SP18,New,8,No,No
+LD20680,2024-10-29,Aggregator,Nexon,Base,SP6,Contacted,1,No,Yes
+LD20681,2024-11-26,Aggregator,City,Mid,SP10,Test Drive,6,No,Yes
+LD20682,2025-07-14,Aggregator,Nexon,Top,SP7,Test Drive,7,Yes,No
+LD20683,2024-09-04,Referral,Baleno,Mid,SP12,Lost,9,Yes,Yes
+LD20684,2024-10-09,Walk-in,Creta,Top,SP8,Test Drive,7,No,Yes
+LD20685,2024-10-13,Facebook,Swift,Mid,SP13,Contacted,6,No,No
+LD20686,2024-02-01,Website,Baleno,Top,SP18,Test Drive,3,No,No
+LD20687,2025-05-14,Facebook,Venue,Top,SP14,Booked,3,No,No
+LD20688,2025-10-31,Website,Venue,Mid,SP11,Test Drive,9,Yes,Yes
+LD20689,2025-06-13,Referral,Venue,Mid,SP10,Contacted,8,Yes,Yes
+LD20690,2025-01-15,Walk-in,Nexon,Top,SP6,Contacted,9,Yes,Yes
+LD20691,2024-03-03,Website,Nexon,Base,SP13,Booked,8,Yes,Yes
+LD20692,2024-05-07,Aggregator,Creta,Top,SP10,New,4,Yes,No
+LD20693,2025-06-11,Referral,Venue,Top,SP12,Contacted,6,Yes,Yes
+LD20694,2024-06-11,Website,Nexon,Base,SP1,New,6,No,Yes
+LD20695,2024-09-07,Aggregator,Nexon,Top,SP18,Lost,8,Yes,No
+LD20696,2025-10-10,Referral,City,Base,SP13,New,6,Yes,Yes
+LD20697,2024-10-21,Website,Nexon,Base,SP4,Booked,7,No,No
+LD20698,2024-06-27,Aggregator,Venue,Mid,SP6,Test Drive,6,No,Yes
+LD20699,2024-08-16,Walk-in,Baleno,Top,SP18,Test Drive,3,No,No
+LD20700,2025-01-28,Referral,Venue,Top,SP5,Booked,1,No,Yes
+LD20701,2025-11-22,Website,City,Base,SP18,Contacted,2,No,No
+LD20702,2025-01-30,Aggregator,Venue,Top,SP5,Contacted,6,Yes,Yes
+LD20703,2024-03-12,Walk-in,Swift,Base,SP7,Contacted,8,No,Yes
+LD20704,2024-11-13,Aggregator,City,Top,SP9,Test Drive,1,No,No
+LD20705,2025-08-17,Walk-in,Creta,Top,SP3,Lost,6,No,No
+LD20706,2025-01-13,Website,Venue,Base,SP12,Lost,3,Yes,No
+LD20707,2024-05-15,Aggregator,Nexon,Base,SP20,Booked,6,No,Yes
+LD20708,2025-12-30,Aggregator,Baleno,Top,SP14,Lost,4,No,No
+LD20709,2025-09-12,Facebook,Venue,Top,SP8,Lost,6,Yes,No
+LD20710,2025-01-12,Referral,Baleno,Base,SP12,Booked,5,No,Yes
+LD20711,2024-04-28,Aggregator,Swift,Mid,SP7,Contacted,1,Yes,No
+LD20712,2025-06-13,Walk-in,Creta,Mid,SP9,Contacted,6,Yes,No
+LD20713,2025-10-27,Referral,Nexon,Top,SP12,Lost,4,No,No
+LD20714,2025-06-06,Website,City,Top,SP4,Test Drive,8,Yes,Yes
+LD20715,2025-10-11,Referral,City,Top,SP5,Booked,0,No,Yes
+LD20716,2025-01-21,Facebook,Creta,Base,SP9,New,0,No,Yes
+LD20717,2025-07-27,Website,Swift,Top,SP7,New,1,No,No
+LD20718,2025-08-05,Aggregator,Swift,Top,SP14,Contacted,7,Yes,Yes
+LD20719,2025-07-26,Website,Venue,Top,SP20,New,8,Yes,Yes
+LD20720,2025-10-05,Website,Swift,Mid,SP17,Lost,6,Yes,Yes
+LD20721,2025-07-26,Facebook,Venue,Top,SP1,New,0,Yes,No
+LD20722,2024-09-25,Walk-in,Baleno,Top,SP15,Test Drive,6,Yes,Yes
+LD20723,2025-06-07,Website,Creta,Base,SP15,New,7,No,Yes
+LD20724,2025-06-30,Walk-in,Baleno,Mid,SP1,New,6,No,Yes
+LD20725,2025-04-30,Referral,Baleno,Base,SP15,New,4,No,Yes
+LD20726,2025-03-13,Facebook,Baleno,Top,SP2,Lost,6,Yes,No
+LD20727,2025-07-16,Aggregator,Baleno,Top,SP4,Booked,9,Yes,Yes
+LD20728,2025-07-08,Website,City,Top,SP17,Test Drive,1,Yes,Yes
+LD20729,2024-04-20,Walk-in,Swift,Top,SP16,Lost,8,No,Yes
+LD20730,2024-11-17,Website,Creta,Top,SP18,Lost,1,No,No
+LD20731,2025-06-10,Facebook,Creta,Base,SP16,Contacted,1,Yes,No
+LD20732,2024-06-25,Aggregator,Nexon,Top,SP8,Contacted,4,No,Yes
+LD20733,2025-11-04,Referral,Baleno,Top,SP6,Contacted,7,Yes,No
+LD20734,2025-07-04,Referral,Creta,Mid,SP20,New,5,No,Yes
+LD20735,2025-06-21,Walk-in,Venue,Mid,SP2,Contacted,8,Yes,No
+LD20736,2025-09-15,Referral,Creta,Top,SP19,Contacted,5,Yes,No
+LD20737,2025-04-17,Walk-in,Baleno,Top,SP13,New,4,No,Yes
+LD20738,2025-07-16,Aggregator,Creta,Top,SP6,Booked,0,No,No
+LD20739,2025-01-22,Website,Swift,Top,SP6,Booked,7,Yes,No
+LD20740,2024-04-07,Facebook,Baleno,Top,SP13,Contacted,2,No,Yes
+LD20741,2025-02-14,Aggregator,City,Top,SP1,Booked,1,No,Yes
+LD20742,2025-01-09,Aggregator,Swift,Base,SP9,Booked,6,No,No
+LD20743,2024-06-18,Referral,Creta,Base,SP12,Contacted,1,Yes,No
+LD20744,2024-02-25,Referral,City,Base,SP12,Test Drive,0,No,No
+LD20745,2024-11-20,Facebook,Nexon,Mid,SP4,Contacted,1,No,No
+LD20746,2025-10-19,Website,Swift,Top,SP19,New,5,No,Yes
+LD20747,2024-09-16,Aggregator,Nexon,Mid,SP16,Test Drive,1,No,No
+LD20748,2025-10-02,Referral,Venue,Mid,SP12,Contacted,0,Yes,Yes
+LD20749,2025-07-15,Aggregator,Swift,Mid,SP1,New,0,Yes,Yes
+LD20750,2024-12-05,Website,City,Base,SP4,Contacted,3,Yes,Yes
+LD20751,2025-02-07,Walk-in,Nexon,Top,SP9,Lost,7,No,No
+LD20752,2025-06-15,Website,Venue,Top,SP7,Booked,5,Yes,No
+LD20753,2024-06-22,Aggregator,Nexon,Mid,SP10,Booked,3,No,Yes
+LD20754,2025-06-21,Aggregator,Creta,Base,SP13,Booked,5,Yes,Yes
+LD20755,2024-06-08,Facebook,Baleno,Mid,SP8,Booked,5,Yes,Yes
+LD20756,2024-01-10,Aggregator,Nexon,Mid,SP20,New,8,No,Yes
+LD20757,2025-08-16,Referral,Creta,Top,SP10,Lost,3,No,Yes
+LD20758,2024-09-12,Facebook,Baleno,Base,SP10,Booked,5,No,No
+LD20759,2025-09-08,Aggregator,Baleno,Top,SP8,Contacted,9,Yes,No
+LD20760,2025-10-13,Website,City,Mid,SP20,Test Drive,0,No,No
+LD20761,2025-12-14,Aggregator,Venue,Top,SP15,Test Drive,6,No,No
+LD20762,2024-12-09,Website,Venue,Mid,SP1,New,6,No,Yes
+LD20763,2025-06-19,Website,Swift,Base,SP15,Contacted,0,Yes,Yes
+LD20764,2025-01-07,Aggregator,Creta,Top,SP17,New,7,No,No
+LD20765,2025-03-10,Website,City,Top,SP13,Booked,4,Yes,Yes
+LD20766,2024-02-15,Walk-in,Nexon,Top,SP12,New,8,Yes,Yes
+LD20767,2025-12-29,Facebook,Creta,Top,SP3,Contacted,7,No,Yes
+LD20768,2024-02-24,Aggregator,Nexon,Top,SP19,New,2,No,No
+LD20769,2024-03-18,Walk-in,Nexon,Base,SP5,Booked,0,No,No
+LD20770,2025-05-05,Website,Nexon,Base,SP3,Lost,2,No,No
+LD20771,2025-11-01,Website,Swift,Top,SP5,Test Drive,1,Yes,No
+LD20772,2024-09-28,Facebook,Swift,Mid,SP9,New,1,No,No
+LD20773,2025-10-21,Walk-in,City,Mid,SP6,Test Drive,3,No,No
+LD20774,2025-07-03,Walk-in,Swift,Top,SP16,Booked,1,Yes,Yes
+LD20775,2024-04-20,Aggregator,City,Top,SP10,Booked,7,Yes,No
+LD20776,2024-01-15,Website,Swift,Base,SP16,Booked,4,No,Yes
+LD20777,2024-03-18,Referral,Venue,Base,SP3,Contacted,0,No,No
+LD20778,2025-05-15,Aggregator,City,Top,SP18,New,5,No,No
+LD20779,2025-08-10,Aggregator,Venue,Top,SP11,New,6,No,Yes
+LD20780,2025-02-21,Aggregator,Venue,Mid,SP19,Lost,0,No,No
+LD20781,2024-10-01,Facebook,City,Base,SP15,Test Drive,2,Yes,Yes
+LD20782,2025-05-08,Facebook,Creta,Top,SP11,Booked,8,Yes,No
+LD20783,2024-07-15,Aggregator,Baleno,Base,SP10,Booked,6,Yes,Yes
+LD20784,2025-01-10,Referral,Swift,Top,SP9,Booked,3,No,No
+LD20785,2025-12-31,Walk-in,Nexon,Top,SP3,New,5,No,Yes
+LD20786,2024-03-03,Walk-in,Swift,Top,SP9,New,5,No,No
+LD20787,2024-12-26,Website,Nexon,Top,SP18,Lost,2,No,Yes
+LD20788,2025-06-27,Walk-in,Creta,Mid,SP12,Lost,1,Yes,No
+LD20789,2024-04-19,Walk-in,Baleno,Top,SP16,Test Drive,4,Yes,No
+LD20790,2025-11-07,Referral,Creta,Mid,SP4,Booked,7,No,No
+LD20791,2024-07-12,Walk-in,Baleno,Mid,SP1,New,2,No,No
+LD20792,2025-06-02,Referral,City,Top,SP13,New,4,No,No
+LD20793,2025-10-12,Facebook,City,Base,SP8,Contacted,2,Yes,No
+LD20794,2025-04-03,Referral,Nexon,Base,SP6,Booked,6,Yes,Yes
+LD20795,2024-10-27,Facebook,Venue,Top,SP8,Test Drive,5,No,Yes
+LD20796,2025-07-21,Referral,Venue,Top,SP19,Test Drive,5,No,Yes
+LD20797,2025-11-02,Aggregator,Nexon,Top,SP12,New,0,Yes,Yes
+LD20798,2025-05-10,Facebook,City,Base,SP1,Contacted,1,No,Yes
+LD20799,2024-05-28,Facebook,Nexon,Base,SP4,Lost,5,Yes,Yes
+LD20800,2025-04-05,Walk-in,Venue,Top,SP13,New,7,No,No
+LD20801,2024-05-18,Facebook,Nexon,Base,SP17,Booked,4,Yes,No
+LD20802,2024-10-18,Referral,City,Mid,SP19,Booked,1,No,No
+LD20803,2024-11-30,Aggregator,Creta,Base,SP19,Booked,4,Yes,Yes
+LD20804,2025-11-29,Aggregator,Swift,Base,SP5,Lost,8,Yes,No
+LD20805,2024-07-02,Walk-in,City,Top,SP11,Contacted,5,No,Yes
+LD20806,2024-11-02,Referral,Nexon,Mid,SP7,Test Drive,4,Yes,Yes
+LD20807,2024-09-18,Referral,City,Top,SP3,New,9,No,Yes
+LD20808,2024-11-05,Website,City,Base,SP11,Contacted,5,Yes,No
+LD20809,2024-12-09,Facebook,Venue,Mid,SP17,Contacted,8,No,No
+LD20810,2025-02-27,Walk-in,Nexon,Top,SP11,New,6,No,Yes
+LD20811,2025-10-18,Aggregator,Venue,Base,SP15,Lost,9,Yes,No
+LD20812,2025-05-28,Website,Nexon,Mid,SP19,Booked,2,No,No
+LD20813,2025-06-07,Referral,Venue,Top,SP8,Contacted,9,No,Yes
+LD20814,2024-09-17,Facebook,Venue,Mid,SP16,New,9,No,No
+LD20815,2024-12-27,Aggregator,Creta,Base,SP15,Contacted,4,No,No
+LD20816,2024-06-17,Website,City,Top,SP3,Test Drive,3,Yes,Yes
+LD20817,2025-10-21,Referral,Creta,Base,SP6,Booked,4,Yes,Yes
+LD20818,2024-07-18,Aggregator,Venue,Mid,SP3,Test Drive,7,No,No
+LD20819,2025-01-19,Aggregator,Creta,Base,SP5,New,5,Yes,No
+LD20820,2024-11-07,Referral,City,Mid,SP1,New,3,No,No
+LD20821,2025-08-04,Referral,City,Top,SP14,Contacted,4,No,Yes
+LD20822,2024-11-07,Walk-in,Venue,Base,SP12,Test Drive,6,No,Yes
+LD20823,2025-07-19,Aggregator,City,Top,SP13,New,7,Yes,Yes
+LD20824,2025-01-29,Referral,Creta,Top,SP14,New,4,No,No
+LD20825,2024-12-16,Website,Baleno,Top,SP12,Contacted,1,No,No
+LD20826,2024-01-28,Facebook,City,Top,SP13,Test Drive,5,Yes,Yes
+LD20827,2025-09-23,Walk-in,Creta,Base,SP6,Contacted,8,No,Yes
+LD20828,2024-05-12,Referral,Creta,Base,SP15,Booked,2,Yes,Yes
+LD20829,2025-01-14,Facebook,Creta,Top,SP16,Test Drive,6,Yes,No
+LD20830,2025-08-24,Walk-in,City,Top,SP9,Test Drive,7,Yes,No
+LD20831,2025-06-11,Aggregator,Baleno,Mid,SP8,New,5,No,No
+LD20832,2024-10-13,Facebook,Venue,Top,SP5,New,2,No,No
+LD20833,2024-10-10,Walk-in,Venue,Mid,SP15,Test Drive,0,No,Yes
+LD20834,2025-10-10,Referral,City,Mid,SP7,New,2,No,No
+LD20835,2024-08-14,Referral,City,Top,SP17,Contacted,5,No,No
+LD20836,2025-03-02,Walk-in,Swift,Base,SP16,New,3,No,Yes
+LD20837,2024-01-27,Aggregator,Nexon,Mid,SP11,New,0,No,Yes
+LD20838,2024-11-27,Walk-in,Baleno,Base,SP7,New,5,No,Yes
+LD20839,2024-04-26,Website,Creta,Top,SP11,Booked,0,No,No
+LD20840,2024-03-29,Walk-in,Nexon,Top,SP2,Contacted,7,No,Yes
+LD20841,2025-09-10,Walk-in,Creta,Top,SP2,New,2,No,No
+LD20842,2024-05-01,Referral,Nexon,Top,SP6,Contacted,2,No,Yes
+LD20843,2024-02-02,Aggregator,Venue,Mid,SP3,Test Drive,0,Yes,No
+LD20844,2025-08-25,Walk-in,Nexon,Mid,SP1,Booked,2,Yes,No
+LD20845,2025-11-26,Facebook,City,Base,SP20,New,6,No,Yes
+LD20846,2025-02-01,Referral,Baleno,Base,SP16,Booked,9,No,Yes
+LD20847,2025-06-08,Referral,Venue,Mid,SP14,Contacted,7,Yes,No
+LD20848,2024-01-24,Walk-in,Nexon,Top,SP17,Test Drive,7,Yes,Yes
+LD20849,2024-11-20,Facebook,Baleno,Base,SP18,Test Drive,2,No,No
+LD20850,2024-02-03,Walk-in,City,Mid,SP4,Booked,4,No,Yes
+LD20851,2024-09-03,Facebook,Creta,Base,SP3,Test Drive,0,No,No
+LD20852,2024-01-19,Referral,Swift,Mid,SP8,New,8,No,No
+LD20853,2024-01-30,Facebook,Baleno,Top,SP4,Test Drive,7,No,Yes
+LD20854,2024-02-18,Walk-in,Creta,Mid,SP15,New,9,Yes,No
+LD20855,2024-06-28,Website,Baleno,Base,SP13,Lost,1,No,No
+LD20856,2025-01-04,Website,Baleno,Mid,SP14,Contacted,9,Yes,No
+LD20857,2025-01-29,Facebook,Baleno,Base,SP14,Contacted,0,Yes,No
+LD20858,2025-08-12,Walk-in,City,Base,SP5,New,3,No,Yes
+LD20859,2025-05-10,Aggregator,Venue,Base,SP5,New,8,No,No
+LD20860,2025-03-06,Website,Baleno,Top,SP13,Test Drive,7,Yes,No
+LD20861,2024-07-25,Referral,City,Top,SP4,Contacted,2,No,Yes
+LD20862,2024-02-04,Walk-in,Swift,Mid,SP18,Contacted,9,Yes,Yes
+LD20863,2025-08-05,Walk-in,Venue,Mid,SP6,New,5,Yes,No
+LD20864,2025-02-16,Website,City,Base,SP5,Booked,8,No,No
+LD20865,2024-12-29,Aggregator,Swift,Top,SP3,New,9,No,No
+LD20866,2024-11-05,Referral,Venue,Mid,SP20,Contacted,7,No,Yes
+LD20867,2024-10-05,Aggregator,City,Mid,SP3,Test Drive,9,Yes,No
+LD20868,2024-05-31,Referral,Swift,Top,SP3,Contacted,4,Yes,No
+LD20869,2024-08-14,Website,City,Base,SP20,New,8,Yes,Yes
+LD20870,2024-08-30,Walk-in,Swift,Mid,SP2,Booked,8,No,No
+LD20871,2024-01-10,Referral,Baleno,Base,SP20,Contacted,2,Yes,Yes
+LD20872,2025-01-26,Walk-in,Baleno,Top,SP18,New,7,No,No
+LD20873,2024-02-17,Facebook,Venue,Top,SP10,Test Drive,3,No,Yes
+LD20874,2025-09-15,Facebook,Swift,Mid,SP7,New,9,Yes,No
+LD20875,2024-07-22,Website,Baleno,Mid,SP20,Contacted,6,No,No
+LD20876,2024-06-05,Website,Venue,Top,SP14,Booked,9,Yes,Yes
+LD20877,2024-01-26,Website,Creta,Base,SP10,Lost,7,No,Yes
+LD20878,2025-02-24,Facebook,Baleno,Base,SP20,Test Drive,6,No,No
+LD20879,2025-11-08,Referral,Baleno,Top,SP16,New,4,Yes,Yes
+LD20880,2024-09-20,Aggregator,Nexon,Mid,SP6,New,0,No,Yes
+LD20881,2025-06-12,Website,City,Top,SP17,Test Drive,7,Yes,Yes
+LD20882,2025-08-10,Aggregator,Creta,Mid,SP6,Contacted,4,No,No
+LD20883,2025-04-14,Aggregator,Swift,Base,SP18,New,2,Yes,No
+LD20884,2024-09-10,Facebook,Venue,Mid,SP10,Booked,1,Yes,Yes
+LD20885,2025-12-18,Referral,Creta,Base,SP10,New,2,No,Yes
+LD20886,2025-06-29,Facebook,Swift,Top,SP9,Contacted,8,No,Yes
+LD20887,2024-05-26,Website,Baleno,Mid,SP15,New,1,Yes,No
+LD20888,2024-11-21,Facebook,Nexon,Base,SP11,Booked,9,Yes,Yes
+LD20889,2024-12-03,Facebook,Venue,Mid,SP7,Contacted,0,Yes,Yes
+LD20890,2024-04-27,Facebook,Venue,Base,SP18,New,1,Yes,No
+LD20891,2024-06-13,Website,Creta,Base,SP2,Contacted,1,No,Yes
+LD20892,2025-07-03,Website,City,Top,SP2,Booked,4,No,No
+LD20893,2025-10-10,Facebook,Swift,Top,SP13,Test Drive,0,No,No
+LD20894,2024-07-16,Facebook,Nexon,Mid,SP11,New,9,No,Yes
+LD20895,2025-01-08,Aggregator,Nexon,Base,SP19,Booked,7,No,No
+LD20896,2025-07-31,Referral,Creta,Top,SP20,New,1,Yes,No
+LD20897,2025-08-14,Aggregator,City,Mid,SP1,Contacted,5,Yes,No
+LD20898,2025-07-17,Referral,City,Top,SP17,Test Drive,4,No,No
+LD20899,2024-05-08,Referral,City,Mid,SP20,Test Drive,1,No,Yes
+LD20900,2025-02-17,Facebook,Venue,Top,SP18,New,9,Yes,No
+LD20901,2025-01-14,Aggregator,Swift,Top,SP8,Booked,0,No,Yes
+LD20902,2024-01-01,Referral,Swift,Base,SP13,Contacted,5,No,No
+LD20903,2024-06-15,Referral,Creta,Base,SP4,Lost,5,Yes,No
+LD20904,2024-01-16,Website,Baleno,Top,SP19,Booked,2,No,Yes
+LD20905,2025-10-18,Referral,Creta,Base,SP3,Lost,7,No,No
+LD20906,2024-04-21,Facebook,Swift,Top,SP6,Contacted,8,No,Yes
+LD20907,2025-01-02,Walk-in,Venue,Mid,SP6,New,2,No,No
+LD20908,2024-04-11,Website,Creta,Top,SP6,Booked,8,Yes,No
+LD20909,2025-08-16,Walk-in,Baleno,Top,SP8,Booked,7,No,Yes
+LD20910,2025-02-09,Facebook,Nexon,Mid,SP17,Booked,4,No,No
+LD20911,2025-05-21,Walk-in,Creta,Mid,SP10,Contacted,5,Yes,No
+LD20912,2025-09-02,Referral,City,Base,SP5,Test Drive,0,Yes,Yes
+LD20913,2025-11-01,Walk-in,Baleno,Mid,SP19,Booked,4,Yes,No
+LD20914,2024-02-09,Aggregator,City,Base,SP11,Booked,9,No,No
+LD20915,2025-10-28,Facebook,Venue,Top,SP10,New,9,Yes,No
+LD20916,2025-07-01,Aggregator,Swift,Mid,SP3,Test Drive,6,Yes,No
+LD20917,2025-01-15,Walk-in,Creta,Top,SP10,Test Drive,0,No,No
+LD20918,2025-05-30,Aggregator,Creta,Base,SP2,New,9,Yes,Yes
+LD20919,2025-05-11,Website,City,Mid,SP9,Lost,8,No,Yes
+LD20920,2024-10-07,Walk-in,City,Base,SP5,Contacted,6,No,No
+LD20921,2024-12-16,Aggregator,Swift,Base,SP17,Test Drive,3,No,No
+LD20922,2024-11-29,Referral,Creta,Mid,SP6,Booked,3,Yes,No
+LD20923,2025-06-07,Walk-in,Swift,Mid,SP11,New,9,No,Yes
+LD20924,2024-10-09,Website,City,Base,SP5,Booked,6,Yes,No
+LD20925,2025-12-28,Referral,Nexon,Mid,SP7,Booked,5,Yes,No
+LD20926,2024-11-14,Walk-in,City,Base,SP7,Booked,2,No,No
+LD20927,2025-02-17,Referral,Baleno,Top,SP4,Contacted,8,No,No
+LD20928,2025-08-16,Walk-in,City,Top,SP10,New,5,Yes,Yes
+LD20929,2024-01-14,Walk-in,City,Mid,SP18,Test Drive,1,No,No
+LD20930,2024-02-25,Facebook,Nexon,Mid,SP1,Contacted,9,Yes,No
+LD20931,2025-02-06,Aggregator,Swift,Top,SP14,Contacted,1,Yes,No
+LD20932,2024-12-07,Walk-in,Baleno,Base,SP6,Contacted,0,Yes,No
+LD20933,2024-07-17,Website,Baleno,Base,SP11,Contacted,4,Yes,No
+LD20934,2025-11-08,Aggregator,Creta,Base,SP14,Test Drive,9,Yes,No
+LD20935,2024-10-18,Facebook,Nexon,Mid,SP20,Booked,5,Yes,No
+LD20936,2025-10-19,Aggregator,Venue,Base,SP3,Booked,2,No,Yes
+LD20937,2025-03-16,Aggregator,Creta,Mid,SP16,Test Drive,3,Yes,No
+LD20938,2024-03-18,Walk-in,Creta,Mid,SP16,Booked,4,Yes,Yes
+LD20939,2024-04-21,Website,Creta,Mid,SP7,New,3,No,Yes
+LD20940,2025-06-18,Walk-in,Baleno,Top,SP8,Booked,8,No,No
+LD20941,2025-01-09,Website,Swift,Base,SP4,Contacted,2,Yes,No
+LD20942,2024-04-25,Website,City,Mid,SP12,Test Drive,4,Yes,No
+LD20943,2024-05-21,Referral,Baleno,Base,SP12,Contacted,6,Yes,Yes
+LD20944,2024-07-15,Walk-in,City,Top,SP10,Contacted,6,No,Yes
+LD20945,2025-06-23,Facebook,City,Base,SP12,Contacted,5,Yes,Yes
+LD20946,2024-10-25,Aggregator,Venue,Top,SP11,New,8,Yes,No
+LD20947,2024-03-16,Referral,Creta,Mid,SP11,New,6,No,No
+LD20948,2025-06-13,Facebook,Venue,Mid,SP15,Contacted,3,No,Yes
+LD20949,2024-04-09,Walk-in,Creta,Top,SP6,New,9,No,Yes
+LD20950,2025-04-23,Website,Baleno,Mid,SP11,New,8,Yes,No
+LD20951,2025-04-12,Walk-in,City,Base,SP2,New,5,No,Yes
+LD20952,2025-09-27,Walk-in,Venue,Base,SP9,New,0,Yes,Yes
+LD20953,2024-10-18,Referral,Nexon,Top,SP11,Booked,8,No,Yes
+LD20954,2024-05-04,Facebook,Baleno,Base,SP16,Test Drive,6,No,Yes
+LD20955,2025-06-02,Referral,Baleno,Mid,SP13,Lost,5,Yes,Yes
+LD20956,2024-01-23,Facebook,Nexon,Mid,SP13,Test Drive,5,Yes,Yes
+LD20957,2024-06-10,Referral,Creta,Mid,SP18,Booked,3,No,Yes
+LD20958,2025-09-20,Aggregator,City,Base,SP1,Test Drive,3,Yes,No
+LD20959,2025-05-20,Website,Creta,Mid,SP20,Contacted,2,Yes,Yes
+LD20960,2024-01-21,Website,Creta,Base,SP10,Test Drive,7,No,No
+LD20961,2025-04-08,Website,Baleno,Top,SP19,Contacted,7,Yes,No
+LD20962,2025-04-27,Aggregator,Creta,Mid,SP17,Test Drive,1,Yes,Yes
+LD20963,2025-05-16,Aggregator,Swift,Top,SP1,Booked,4,No,No
+LD20964,2024-11-04,Website,Nexon,Base,SP1,Booked,8,Yes,Yes
+LD20965,2025-08-18,Website,Nexon,Base,SP17,Contacted,8,Yes,No
+LD20966,2025-07-06,Facebook,City,Top,SP15,Lost,6,Yes,No
+LD20967,2024-07-21,Facebook,Nexon,Mid,SP2,Lost,3,No,Yes
+LD20968,2025-02-19,Walk-in,Creta,Mid,SP11,Contacted,3,Yes,No
+LD20969,2025-10-01,Referral,Creta,Mid,SP2,Booked,9,Yes,Yes
+LD20970,2024-05-21,Facebook,Venue,Top,SP20,New,6,Yes,No
+LD20971,2025-09-06,Facebook,City,Base,SP9,New,2,Yes,Yes
+LD20972,2024-04-16,Facebook,City,Top,SP19,New,2,Yes,Yes
+LD20973,2025-06-12,Facebook,Nexon,Base,SP2,Booked,4,No,No
+LD20974,2025-06-20,Aggregator,Creta,Mid,SP16,New,5,Yes,Yes
+LD20975,2025-07-29,Walk-in,Swift,Mid,SP20,New,7,No,Yes
+LD20976,2025-11-18,Facebook,Venue,Base,SP9,New,0,Yes,No
+LD20977,2024-10-17,Referral,Swift,Mid,SP20,Contacted,6,No,Yes
+LD20978,2024-11-06,Facebook,Creta,Top,SP4,Contacted,7,Yes,No
+LD20979,2025-10-29,Aggregator,City,Base,SP13,New,4,No,No
+LD20980,2025-01-19,Website,City,Mid,SP15,Contacted,9,Yes,No
+LD20981,2024-02-22,Website,Swift,Mid,SP20,New,1,Yes,Yes
+LD20982,2025-08-07,Walk-in,Baleno,Mid,SP2,Contacted,3,Yes,No
+LD20983,2024-07-01,Website,Creta,Mid,SP20,Booked,5,Yes,Yes
+LD20984,2025-01-03,Facebook,City,Base,SP18,Lost,8,No,No
+LD20985,2025-12-01,Aggregator,Nexon,Base,SP9,Contacted,1,Yes,No
+LD20986,2024-01-13,Walk-in,Baleno,Mid,SP20,Contacted,3,Yes,No
+LD20987,2025-07-12,Facebook,City,Top,SP1,Lost,9,Yes,Yes
+LD20988,2024-06-08,Website,Nexon,Top,SP3,Test Drive,4,Yes,No
+LD20989,2024-10-10,Referral,City,Top,SP17,Booked,7,No,Yes
+LD20990,2025-07-18,Facebook,Baleno,Top,SP11,Contacted,7,Yes,Yes
+LD20991,2024-10-13,Referral,Swift,Base,SP8,New,1,Yes,Yes
+LD20992,2024-01-08,Referral,Creta,Base,SP12,Test Drive,5,Yes,Yes
+LD20993,2024-03-12,Walk-in,Baleno,Top,SP11,Test Drive,5,Yes,Yes
+LD20994,2024-04-07,Aggregator,Baleno,Base,SP13,Contacted,4,No,No
+LD20995,2024-03-27,Website,City,Top,SP15,Contacted,7,Yes,Yes
+LD20996,2024-04-10,Website,Nexon,Mid,SP20,Booked,9,No,No
+LD20997,2024-10-07,Facebook,Baleno,Mid,SP17,Contacted,1,Yes,No
+LD20998,2024-10-15,Website,Creta,Top,SP12,Test Drive,1,No,Yes
+LD20999,2024-07-14,Walk-in,Swift,Base,SP19,Contacted,6,No,No
+LD21000,2025-01-25,Website,Nexon,Top,SP20,Contacted,8,Yes,No
+LD21001,2025-08-31,Facebook,Swift,Base,SP11,New,2,Yes,Yes
+LD21002,2025-03-25,Website,Swift,Mid,SP10,Test Drive,6,Yes,Yes
+LD21003,2025-01-02,Aggregator,Creta,Base,SP17,New,2,Yes,No
+LD21004,2025-03-05,Referral,City,Top,SP13,Contacted,5,No,Yes
+LD21005,2024-04-05,Referral,Nexon,Mid,SP16,Contacted,2,No,Yes
+LD21006,2024-09-17,Referral,Nexon,Mid,SP20,Lost,0,No,No
+LD21007,2025-05-26,Aggregator,Creta,Base,SP20,Lost,5,No,Yes
+LD21008,2024-04-30,Walk-in,Nexon,Mid,SP17,Booked,2,Yes,Yes
+LD21009,2024-12-31,Facebook,Baleno,Mid,SP5,Lost,0,Yes,Yes
+LD21010,2024-11-27,Aggregator,Venue,Base,SP9,New,4,No,Yes
+LD21011,2024-02-21,Facebook,Venue,Mid,SP4,Lost,7,Yes,Yes
+LD21012,2025-01-30,Walk-in,Venue,Top,SP9,New,7,No,Yes
+LD21013,2024-11-13,Aggregator,Swift,Base,SP16,Contacted,7,No,No
+LD21014,2025-11-05,Website,Nexon,Base,SP7,New,2,No,Yes
+LD21015,2025-12-02,Walk-in,Creta,Base,SP14,Lost,7,Yes,No
+LD21016,2024-10-03,Referral,Nexon,Base,SP14,Test Drive,3,No,No
+LD21017,2025-08-19,Aggregator,Creta,Top,SP7,Test Drive,7,No,No
+LD21018,2024-07-12,Walk-in,Nexon,Base,SP16,Lost,2,No,No
+LD21019,2025-11-23,Walk-in,Swift,Top,SP18,Test Drive,2,Yes,Yes
+LD21020,2024-01-21,Aggregator,Baleno,Base,SP6,Test Drive,0,Yes,No
+LD21021,2025-02-02,Referral,Venue,Base,SP7,New,7,No,Yes
+LD21022,2025-12-15,Referral,Venue,Mid,SP19,Booked,7,Yes,No
+LD21023,2024-07-20,Walk-in,Nexon,Mid,SP8,Lost,8,Yes,No
+LD21024,2025-04-10,Facebook,Swift,Top,SP1,Lost,5,Yes,Yes
+LD21025,2024-05-30,Walk-in,Venue,Mid,SP17,New,1,Yes,Yes
+LD21026,2024-06-07,Aggregator,Nexon,Base,SP19,New,0,No,No
+LD21027,2024-11-05,Aggregator,City,Top,SP7,Contacted,7,No,Yes
+LD21028,2025-05-18,Aggregator,Nexon,Mid,SP18,Contacted,9,No,No
+LD21029,2024-01-26,Referral,Creta,Base,SP6,Contacted,3,No,Yes
+LD21030,2024-03-06,Website,Venue,Mid,SP6,Test Drive,6,Yes,Yes
+LD21031,2024-09-19,Aggregator,Venue,Mid,SP1,Booked,9,No,No
+LD21032,2025-04-16,Aggregator,City,Mid,SP10,Lost,3,Yes,Yes
+LD21033,2024-06-15,Facebook,Baleno,Mid,SP8,New,0,No,No
+LD21034,2024-06-02,Facebook,Nexon,Base,SP7,Contacted,7,No,Yes
+LD21035,2024-12-08,Walk-in,Baleno,Mid,SP9,Contacted,9,Yes,No
+LD21036,2025-12-18,Walk-in,Nexon,Top,SP1,Contacted,8,No,No
+LD21037,2025-02-16,Walk-in,City,Top,SP11,Contacted,9,Yes,No
+LD21038,2025-10-26,Aggregator,Baleno,Mid,SP3,Contacted,8,No,Yes
+LD21039,2024-07-02,Facebook,Swift,Top,SP18,Lost,8,No,No
+LD21040,2025-11-01,Walk-in,City,Mid,SP6,Contacted,3,Yes,No
+LD21041,2024-07-12,Facebook,Nexon,Base,SP11,Test Drive,8,No,Yes
+LD21042,2024-01-02,Aggregator,Creta,Base,SP5,Booked,3,Yes,No
+LD21043,2024-08-02,Aggregator,Creta,Top,SP20,Booked,1,Yes,No
+LD21044,2025-11-17,Walk-in,Creta,Top,SP4,Test Drive,9,No,No
+LD21045,2025-08-09,Aggregator,Nexon,Mid,SP8,Booked,2,No,Yes
+LD21046,2025-09-30,Aggregator,Venue,Mid,SP10,Test Drive,1,Yes,Yes
+LD21047,2025-04-27,Facebook,City,Mid,SP3,Booked,0,No,No
+LD21048,2025-07-14,Website,City,Base,SP13,Contacted,5,No,Yes
+LD21049,2024-02-01,Referral,Baleno,Mid,SP17,New,3,Yes,No
+LD21050,2025-10-31,Walk-in,City,Base,SP5,Booked,6,Yes,Yes
+LD21051,2024-01-15,Website,City,Top,SP8,Contacted,6,No,No
+LD21052,2024-11-13,Walk-in,Baleno,Base,SP19,Test Drive,9,Yes,No
+LD21053,2024-08-30,Website,City,Top,SP18,Booked,0,No,No
+LD21054,2024-01-17,Aggregator,City,Base,SP1,Contacted,8,No,Yes
+LD21055,2025-06-17,Walk-in,Swift,Base,SP4,Test Drive,7,No,No
+LD21056,2024-03-21,Website,Nexon,Mid,SP18,Booked,9,Yes,No
+LD21057,2025-10-17,Referral,Baleno,Top,SP14,Booked,0,Yes,Yes
+LD21058,2025-03-11,Aggregator,Swift,Base,SP11,Booked,7,No,Yes
+LD21059,2024-01-08,Walk-in,Venue,Base,SP9,Booked,4,Yes,No
+LD21060,2025-11-09,Walk-in,Baleno,Top,SP13,Booked,0,Yes,Yes
+LD21061,2024-10-13,Website,Nexon,Base,SP17,Booked,3,Yes,No
+LD21062,2024-07-04,Walk-in,City,Top,SP15,Contacted,6,Yes,Yes
+LD21063,2025-06-07,Aggregator,City,Top,SP2,New,4,Yes,Yes
+LD21064,2025-02-25,Facebook,Swift,Top,SP6,Contacted,2,No,No
+LD21065,2025-04-10,Website,Swift,Base,SP7,New,3,Yes,No
+LD21066,2024-03-23,Referral,Venue,Base,SP2,New,1,Yes,No
+LD21067,2025-07-20,Walk-in,Venue,Mid,SP13,Lost,7,Yes,Yes
+LD21068,2025-10-04,Aggregator,Nexon,Top,SP10,Test Drive,1,No,No
+LD21069,2025-09-28,Walk-in,City,Base,SP16,Booked,5,No,Yes
+LD21070,2025-04-27,Referral,Creta,Base,SP9,Test Drive,6,Yes,No
+LD21071,2024-11-20,Aggregator,Venue,Top,SP8,Contacted,6,No,No
+LD21072,2025-02-22,Referral,City,Top,SP15,New,0,Yes,No
+LD21073,2024-02-20,Aggregator,Venue,Top,SP7,Lost,7,No,Yes
+LD21074,2024-01-27,Facebook,Baleno,Mid,SP19,New,8,No,No
+LD21075,2025-11-07,Aggregator,Swift,Mid,SP4,Test Drive,6,Yes,Yes
+LD21076,2025-06-28,Referral,City,Mid,SP9,New,7,No,No
+LD21077,2024-03-02,Website,Venue,Top,SP19,Contacted,3,Yes,No
+LD21078,2025-10-18,Facebook,Swift,Base,SP2,New,7,Yes,Yes
+LD21079,2024-06-19,Walk-in,Creta,Top,SP7,Test Drive,2,No,Yes
+LD21080,2024-10-12,Facebook,Venue,Base,SP19,Booked,0,No,Yes
+LD21081,2024-04-26,Facebook,City,Mid,SP6,Test Drive,7,No,No
+LD21082,2024-01-04,Walk-in,Baleno,Mid,SP15,Test Drive,5,Yes,No
+LD21083,2024-03-06,Aggregator,Swift,Mid,SP7,Lost,8,Yes,Yes
+LD21084,2024-02-29,Facebook,Swift,Base,SP6,Booked,2,Yes,No
+LD21085,2025-05-16,Facebook,Baleno,Base,SP1,Booked,7,No,Yes
+LD21086,2024-08-16,Website,City,Top,SP14,Contacted,8,No,Yes
+LD21087,2024-04-09,Website,Nexon,Top,SP1,Booked,8,No,No
+LD21088,2024-04-28,Referral,Creta,Top,SP6,Test Drive,6,No,Yes
+LD21089,2024-03-09,Walk-in,Nexon,Mid,SP18,New,9,Yes,No
+LD21090,2025-10-25,Aggregator,Baleno,Top,SP17,New,2,No,Yes
+LD21091,2024-08-08,Aggregator,Creta,Mid,SP2,New,2,Yes,No
+LD21092,2024-08-10,Referral,City,Base,SP8,Contacted,1,Yes,Yes
+LD21093,2025-11-07,Aggregator,Venue,Mid,SP2,Booked,0,Yes,No
+LD21094,2025-05-18,Aggregator,Venue,Mid,SP16,Booked,1,No,Yes
+LD21095,2024-07-29,Website,Nexon,Mid,SP4,Lost,4,No,No
+LD21096,2025-07-28,Aggregator,City,Base,SP2,Test Drive,0,No,No
+LD21097,2024-09-18,Aggregator,Creta,Base,SP5,Booked,9,No,No
+LD21098,2025-06-01,Referral,Nexon,Top,SP17,Contacted,3,No,Yes
+LD21099,2024-09-04,Referral,Baleno,Top,SP2,Test Drive,9,No,No
+LD21100,2024-09-13,Facebook,Nexon,Top,SP14,Booked,9,No,Yes
+LD21101,2024-03-03,Aggregator,City,Base,SP20,Booked,0,No,Yes
+LD21102,2025-01-26,Aggregator,City,Base,SP7,Test Drive,9,No,Yes
+LD21103,2025-06-23,Aggregator,Venue,Base,SP15,Test Drive,7,No,No
+LD21104,2025-02-20,Website,Baleno,Base,SP18,New,4,No,Yes
+LD21105,2024-02-22,Aggregator,Venue,Base,SP13,Booked,9,No,Yes
+LD21106,2024-02-07,Website,Creta,Mid,SP12,Booked,3,No,No
+LD21107,2024-11-03,Facebook,Creta,Top,SP2,Test Drive,2,No,No
+LD21108,2025-10-12,Walk-in,Swift,Mid,SP12,New,8,Yes,No
+LD21109,2024-02-22,Aggregator,City,Top,SP6,Contacted,5,Yes,No
+LD21110,2025-08-28,Referral,Baleno,Mid,SP1,Contacted,0,Yes,Yes
+LD21111,2025-08-28,Referral,Baleno,Base,SP1,Test Drive,7,No,Yes
+LD21112,2025-03-27,Aggregator,Venue,Top,SP15,Contacted,9,Yes,Yes
+LD21113,2025-04-05,Website,Nexon,Mid,SP16,Booked,1,No,Yes
+LD21114,2025-04-30,Referral,Nexon,Top,SP7,Contacted,8,No,Yes
+LD21115,2024-05-16,Referral,Venue,Base,SP14,New,6,Yes,No
+LD21116,2025-01-06,Facebook,Nexon,Base,SP19,Booked,2,No,Yes
+LD21117,2024-09-12,Facebook,Baleno,Top,SP19,Test Drive,3,No,No
+LD21118,2025-01-29,Facebook,Venue,Top,SP13,Booked,2,No,No
+LD21119,2024-02-06,Referral,Nexon,Base,SP12,Contacted,5,No,Yes
+LD21120,2025-10-15,Referral,Swift,Base,SP1,New,8,Yes,Yes
+LD21121,2024-05-26,Aggregator,City,Base,SP12,New,9,No,Yes
+LD21122,2024-01-08,Aggregator,Swift,Mid,SP4,New,8,Yes,No
+LD21123,2024-09-07,Website,Nexon,Top,SP15,Booked,0,Yes,No
+LD21124,2025-10-08,Referral,Creta,Base,SP16,Contacted,9,No,No
+LD21125,2025-07-24,Aggregator,Baleno,Top,SP15,Lost,5,Yes,Yes
+LD21126,2025-09-26,Aggregator,Swift,Mid,SP8,Booked,0,No,No
+LD21127,2025-03-22,Facebook,Swift,Mid,SP19,Test Drive,3,No,No
+LD21128,2024-09-19,Facebook,Venue,Base,SP15,Lost,6,Yes,No
+LD21129,2025-09-23,Facebook,Venue,Top,SP18,Contacted,3,Yes,No
+LD21130,2025-03-14,Walk-in,Venue,Mid,SP11,New,8,Yes,Yes
+LD21131,2024-09-15,Aggregator,Nexon,Top,SP9,Booked,9,No,No
+LD21132,2024-11-18,Facebook,Creta,Top,SP1,Contacted,4,Yes,Yes
+LD21133,2025-06-13,Facebook,Swift,Base,SP9,Lost,8,Yes,Yes
+LD21134,2024-10-27,Referral,City,Mid,SP12,Lost,0,Yes,Yes
+LD21135,2025-04-29,Facebook,Venue,Mid,SP2,Lost,3,No,Yes
+LD21136,2024-04-01,Referral,Creta,Mid,SP11,Lost,6,No,No
+LD21137,2024-06-12,Website,Nexon,Top,SP14,Test Drive,1,Yes,Yes
+LD21138,2025-10-17,Facebook,Creta,Mid,SP2,Test Drive,8,Yes,Yes
+LD21139,2024-11-30,Referral,Venue,Mid,SP15,New,2,Yes,No
+LD21140,2024-11-10,Facebook,Baleno,Top,SP18,Booked,3,No,No
+LD21141,2024-08-25,Website,Swift,Mid,SP14,New,3,No,No
+LD21142,2025-11-16,Facebook,Venue,Mid,SP12,Booked,7,No,No
+LD21143,2024-03-23,Referral,City,Top,SP10,Lost,1,No,Yes
+LD21144,2025-10-30,Website,Swift,Mid,SP14,New,4,No,No
+LD21145,2024-04-18,Website,Creta,Base,SP15,New,1,Yes,No
+LD21146,2024-06-26,Website,City,Top,SP5,Contacted,5,Yes,Yes
+LD21147,2024-09-06,Walk-in,Swift,Mid,SP2,Booked,8,No,Yes
+LD21148,2025-07-20,Referral,City,Base,SP6,Booked,8,No,No
+LD21149,2025-10-28,Walk-in,Creta,Top,SP12,Test Drive,0,Yes,Yes
+LD21150,2024-03-31,Website,Venue,Mid,SP2,Booked,3,Yes,No
+LD21151,2024-12-04,Walk-in,City,Top,SP4,New,3,Yes,No
+LD21152,2025-09-29,Facebook,Venue,Base,SP7,Test Drive,0,Yes,Yes
+LD21153,2024-06-17,Walk-in,Creta,Top,SP16,Test Drive,9,Yes,Yes
+LD21154,2024-05-18,Aggregator,Creta,Mid,SP1,New,1,Yes,Yes
+LD21155,2025-05-31,Website,City,Base,SP1,Contacted,5,Yes,Yes
+LD21156,2025-07-31,Website,City,Top,SP14,Booked,9,Yes,No
+LD21157,2025-09-14,Referral,Creta,Mid,SP11,Lost,2,Yes,No
+LD21158,2024-07-02,Facebook,City,Mid,SP12,Test Drive,8,Yes,Yes
+LD21159,2024-06-18,Referral,City,Base,SP11,Lost,2,Yes,No
+LD21160,2024-12-27,Walk-in,City,Base,SP6,New,2,No,Yes
+LD21161,2024-08-31,Aggregator,Nexon,Top,SP12,Lost,8,No,No
+LD21162,2024-05-17,Aggregator,City,Mid,SP12,New,2,No,No
+LD21163,2024-01-28,Aggregator,Swift,Base,SP10,Test Drive,5,Yes,No
+LD21164,2025-06-02,Aggregator,Creta,Mid,SP8,Contacted,5,Yes,No
+LD21165,2025-02-01,Facebook,Creta,Top,SP20,Booked,0,No,No
+LD21166,2024-11-28,Walk-in,Baleno,Base,SP19,New,6,No,No
+LD21167,2024-11-12,Aggregator,Venue,Top,SP7,New,8,Yes,Yes
+LD21168,2025-07-16,Website,Baleno,Top,SP14,Contacted,8,Yes,Yes
+LD21169,2025-03-01,Walk-in,City,Base,SP4,New,8,Yes,Yes
+LD21170,2024-05-15,Facebook,City,Top,SP1,Contacted,1,No,No
+LD21171,2025-11-20,Aggregator,Swift,Mid,SP8,Test Drive,0,Yes,Yes
+LD21172,2025-10-02,Facebook,Swift,Base,SP5,Contacted,5,Yes,No
+LD21173,2025-12-09,Aggregator,Swift,Mid,SP8,New,5,Yes,No
+LD21174,2024-09-23,Website,Swift,Top,SP8,New,3,Yes,No
+LD21175,2024-04-16,Walk-in,Swift,Base,SP7,New,7,No,Yes
+LD21176,2025-07-13,Website,Swift,Mid,SP19,Test Drive,4,No,No
+LD21177,2024-05-17,Aggregator,Swift,Mid,SP4,Test Drive,6,Yes,No
+LD21178,2025-09-06,Referral,Swift,Mid,SP20,Contacted,8,No,Yes
+LD21179,2024-02-16,Walk-in,Nexon,Mid,SP6,New,0,No,Yes
+LD21180,2025-10-26,Facebook,Swift,Mid,SP12,Test Drive,8,Yes,Yes
+LD21181,2025-01-02,Aggregator,Creta,Top,SP18,Test Drive,3,No,No
+LD21182,2024-01-06,Website,Swift,Top,SP12,Contacted,6,Yes,No
+LD21183,2025-06-06,Referral,Venue,Top,SP18,Contacted,3,Yes,Yes
+LD21184,2025-06-12,Aggregator,Swift,Top,SP3,New,3,No,No
+LD21185,2025-10-16,Facebook,Nexon,Top,SP10,New,3,Yes,No
+LD21186,2024-09-28,Website,City,Top,SP7,Contacted,5,Yes,No
+LD21187,2024-03-06,Walk-in,Nexon,Top,SP3,New,4,Yes,Yes
+LD21188,2025-02-23,Referral,Nexon,Mid,SP19,Contacted,1,Yes,No
+LD21189,2024-12-04,Aggregator,City,Top,SP13,Test Drive,8,No,Yes
+LD21190,2025-05-12,Aggregator,Swift,Mid,SP4,Lost,5,Yes,Yes
+LD21191,2025-04-13,Aggregator,Swift,Base,SP10,Test Drive,9,No,Yes
+LD21192,2024-11-26,Aggregator,City,Top,SP6,Test Drive,5,No,No
+LD21193,2025-09-30,Website,Venue,Mid,SP1,Contacted,8,No,No
+LD21194,2024-05-10,Walk-in,Baleno,Base,SP6,New,0,Yes,No
+LD21195,2025-06-13,Facebook,Creta,Base,SP8,Contacted,6,No,Yes
+LD21196,2025-12-19,Referral,City,Mid,SP15,Test Drive,2,No,Yes
+LD21197,2025-08-23,Aggregator,Swift,Mid,SP8,Booked,3,No,No
+LD21198,2025-03-13,Aggregator,Creta,Mid,SP6,Booked,0,No,No
+LD21199,2024-08-30,Walk-in,Swift,Top,SP19,Contacted,2,No,Yes
+LD21200,2025-04-07,Walk-in,Baleno,Base,SP14,New,6,No,No
+LD21201,2024-12-15,Website,Baleno,Top,SP2,Test Drive,5,No,Yes
+LD21202,2024-01-17,Website,City,Top,SP7,Test Drive,0,Yes,Yes
+LD21203,2025-04-10,Website,Creta,Top,SP8,New,8,Yes,Yes
+LD21204,2024-12-28,Referral,Nexon,Base,SP10,Test Drive,3,No,Yes
+LD21205,2024-07-28,Website,Creta,Base,SP13,Contacted,6,No,No
+LD21206,2025-09-02,Aggregator,Nexon,Base,SP20,Test Drive,3,Yes,Yes
+LD21207,2025-06-08,Website,Baleno,Mid,SP1,Contacted,6,No,Yes
+LD21208,2025-11-29,Referral,Swift,Top,SP9,Test Drive,4,No,No
+LD21209,2025-02-23,Website,Nexon,Mid,SP10,Booked,0,Yes,Yes
+LD21210,2024-05-12,Website,Nexon,Mid,SP20,Lost,3,No,Yes
+LD21211,2024-01-14,Aggregator,City,Top,SP2,Lost,2,No,Yes
+LD21212,2024-02-13,Aggregator,Venue,Base,SP20,Test Drive,5,No,Yes
+LD21213,2025-01-11,Aggregator,Baleno,Top,SP11,Contacted,5,No,No
+LD21214,2024-10-21,Website,Nexon,Mid,SP5,Contacted,0,Yes,No
+LD21215,2025-01-30,Aggregator,Baleno,Base,SP18,New,1,No,No
+LD21216,2024-04-13,Walk-in,City,Base,SP7,New,1,No,No
+LD21217,2025-03-20,Facebook,Swift,Mid,SP3,New,9,Yes,Yes
+LD21218,2024-03-02,Facebook,Creta,Base,SP16,Test Drive,3,Yes,Yes
+LD21219,2025-07-18,Aggregator,Baleno,Base,SP15,Contacted,8,No,No
+LD21220,2025-02-15,Referral,City,Top,SP8,New,1,No,Yes
+LD21221,2025-09-21,Aggregator,City,Top,SP20,Test Drive,7,No,No
+LD21222,2024-11-16,Aggregator,City,Mid,SP5,Test Drive,0,No,Yes
+LD21223,2024-05-10,Website,Creta,Mid,SP3,Booked,7,No,No
+LD21224,2024-07-17,Referral,Baleno,Mid,SP5,Test Drive,2,No,No
+LD21225,2024-02-05,Aggregator,Nexon,Base,SP9,New,4,No,No
+LD21226,2024-08-03,Walk-in,City,Mid,SP16,New,0,Yes,No
+LD21227,2025-08-08,Facebook,Creta,Top,SP14,Booked,0,Yes,Yes
+LD21228,2024-11-01,Walk-in,Swift,Base,SP18,New,5,No,Yes
+LD21229,2025-07-20,Walk-in,Venue,Mid,SP7,Test Drive,2,No,Yes
+LD21230,2024-01-12,Walk-in,Baleno,Base,SP15,Contacted,7,No,No
+LD21231,2024-03-23,Referral,Creta,Base,SP8,Lost,3,No,No
+LD21232,2024-02-01,Referral,Venue,Base,SP3,Test Drive,5,No,Yes
+LD21233,2025-02-11,Referral,Venue,Mid,SP11,Test Drive,9,No,Yes
+LD21234,2024-03-26,Facebook,Creta,Base,SP20,Contacted,8,Yes,Yes
+LD21235,2025-02-14,Website,Nexon,Base,SP18,Lost,7,Yes,Yes
+LD21236,2025-12-13,Aggregator,Nexon,Base,SP15,Test Drive,3,No,No
+LD21237,2025-07-16,Aggregator,Creta,Top,SP10,New,9,No,No
+LD21238,2024-09-12,Website,Creta,Mid,SP3,Test Drive,7,No,Yes
+LD21239,2024-08-28,Aggregator,City,Top,SP15,Contacted,6,Yes,Yes
+LD21240,2025-12-17,Walk-in,Swift,Base,SP6,New,4,Yes,Yes
+LD21241,2025-12-08,Facebook,Nexon,Base,SP11,Contacted,6,Yes,No
+LD21242,2025-03-27,Aggregator,City,Top,SP11,Booked,6,No,Yes
+LD21243,2024-01-01,Facebook,Venue,Base,SP19,Test Drive,9,Yes,No
+LD21244,2025-08-23,Website,Venue,Top,SP3,Test Drive,1,No,No
+LD21245,2024-10-08,Aggregator,Venue,Base,SP13,Test Drive,6,No,Yes
+LD21246,2025-10-12,Facebook,Creta,Base,SP8,Test Drive,2,No,Yes
+LD21247,2025-08-21,Walk-in,Baleno,Base,SP11,Contacted,7,No,Yes
+LD21248,2025-05-28,Walk-in,City,Base,SP11,Contacted,7,Yes,No
+LD21249,2025-11-10,Website,Baleno,Mid,SP13,New,8,No,Yes
+LD21250,2024-04-28,Referral,Swift,Mid,SP3,New,3,No,Yes
+LD21251,2025-05-19,Aggregator,Swift,Mid,SP6,Lost,9,Yes,No
+LD21252,2024-03-20,Walk-in,City,Top,SP10,Booked,2,No,No
+LD21253,2025-09-14,Walk-in,Venue,Top,SP19,Contacted,8,No,No
+LD21254,2025-11-07,Website,Nexon,Top,SP12,Contacted,8,No,Yes
+LD21255,2024-08-06,Walk-in,Swift,Top,SP14,Lost,1,Yes,No
+LD21256,2025-05-31,Aggregator,Baleno,Mid,SP11,Contacted,5,No,No
+LD21257,2025-12-27,Website,Baleno,Top,SP10,Test Drive,2,No,No
+LD21258,2025-12-07,Facebook,Nexon,Top,SP3,New,4,Yes,No
+LD21259,2025-04-10,Website,Creta,Top,SP13,Test Drive,1,No,No
+LD21260,2025-06-01,Aggregator,Venue,Base,SP18,Lost,3,No,Yes
+LD21261,2025-05-16,Aggregator,Creta,Top,SP13,Booked,2,No,No
+LD21262,2024-02-27,Facebook,City,Base,SP14,Test Drive,1,No,No
+LD21263,2024-12-02,Website,Swift,Top,SP14,Test Drive,5,Yes,No
+LD21264,2025-05-24,Aggregator,Nexon,Top,SP7,Test Drive,2,Yes,Yes
+LD21265,2025-09-05,Aggregator,Nexon,Base,SP12,New,3,No,Yes
+LD21266,2025-03-01,Facebook,Nexon,Top,SP4,New,5,Yes,No
+LD21267,2025-07-13,Referral,Creta,Base,SP16,Lost,4,No,No
+LD21268,2025-01-04,Website,Creta,Top,SP19,Contacted,3,No,No
+LD21269,2025-02-14,Aggregator,City,Top,SP10,Contacted,3,Yes,No
+LD21270,2025-11-05,Walk-in,Baleno,Base,SP16,Test Drive,1,No,Yes
+LD21271,2025-03-07,Facebook,Baleno,Mid,SP5,Lost,9,No,Yes
+LD21272,2024-07-14,Referral,City,Base,SP16,Test Drive,3,No,Yes
+LD21273,2025-01-11,Referral,Nexon,Mid,SP1,Test Drive,7,No,No
+LD21274,2024-12-30,Facebook,Baleno,Base,SP5,Test Drive,4,Yes,No
+LD21275,2025-10-05,Referral,City,Mid,SP13,Booked,9,Yes,Yes
+LD21276,2025-02-08,Aggregator,Baleno,Top,SP13,Test Drive,9,Yes,Yes
+LD21277,2025-05-06,Referral,City,Mid,SP3,Lost,7,Yes,No
+LD21278,2024-03-06,Website,Baleno,Top,SP17,Test Drive,5,Yes,Yes
+LD21279,2025-01-25,Walk-in,Nexon,Base,SP19,Contacted,9,No,Yes
+LD21280,2024-03-23,Aggregator,Creta,Mid,SP5,Booked,4,Yes,Yes
+LD21281,2025-04-25,Facebook,Creta,Top,SP5,Booked,3,Yes,Yes
+LD21282,2024-08-16,Walk-in,Nexon,Base,SP15,New,9,No,Yes
+LD21283,2025-12-31,Aggregator,Baleno,Mid,SP10,New,8,No,No
+LD21284,2024-08-12,Walk-in,Nexon,Top,SP12,Lost,9,No,No
+LD21285,2024-04-22,Referral,City,Mid,SP11,Contacted,4,No,No
+LD21286,2025-10-13,Facebook,Creta,Mid,SP1,Test Drive,9,No,No
+LD21287,2024-07-03,Facebook,Swift,Top,SP3,Contacted,5,Yes,Yes
+LD21288,2025-05-26,Website,Baleno,Top,SP4,Contacted,6,Yes,No
+LD21289,2024-06-21,Referral,Swift,Base,SP19,Booked,0,Yes,Yes
+LD21290,2025-06-06,Website,Swift,Top,SP20,Contacted,8,No,Yes
+LD21291,2025-11-01,Website,Venue,Top,SP3,Contacted,7,Yes,No
+LD21292,2024-07-23,Referral,Swift,Mid,SP18,New,4,No,No
+LD21293,2025-06-21,Aggregator,Swift,Top,SP3,Lost,2,Yes,No
+LD21294,2024-11-14,Website,Nexon,Mid,SP7,Booked,4,No,No
+LD21295,2024-06-07,Walk-in,Venue,Mid,SP1,Booked,4,Yes,Yes
+LD21296,2024-10-04,Aggregator,Venue,Top,SP19,Test Drive,8,Yes,Yes
+LD21297,2024-05-27,Referral,Venue,Top,SP18,Test Drive,6,No,Yes
+LD21298,2024-03-23,Facebook,City,Top,SP2,Booked,1,No,No
+LD21299,2025-02-22,Aggregator,Venue,Top,SP12,Booked,4,No,No
+LD21300,2025-06-21,Website,Nexon,Base,SP17,Booked,8,Yes,Yes
+LD21301,2025-08-05,Walk-in,City,Mid,SP3,Contacted,1,No,Yes
+LD21302,2025-07-02,Referral,Baleno,Base,SP12,Contacted,7,No,No
+LD21303,2025-01-26,Facebook,City,Base,SP12,Booked,2,No,No
+LD21304,2024-05-12,Walk-in,Baleno,Mid,SP6,Contacted,3,Yes,Yes
+LD21305,2025-09-29,Facebook,Venue,Base,SP10,Contacted,1,No,Yes
+LD21306,2025-09-18,Referral,Venue,Top,SP6,Test Drive,8,Yes,Yes
+LD21307,2025-08-26,Aggregator,Baleno,Top,SP14,Contacted,5,Yes,No
+LD21308,2024-08-29,Website,Creta,Top,SP2,Booked,8,Yes,Yes
+LD21309,2025-03-26,Referral,Nexon,Top,SP11,New,7,No,Yes
+LD21310,2024-07-18,Walk-in,City,Mid,SP15,Booked,8,Yes,No
+LD21311,2025-12-19,Aggregator,Nexon,Top,SP8,New,4,No,Yes
+LD21312,2024-04-26,Facebook,Nexon,Mid,SP13,Lost,5,No,Yes
+LD21313,2024-08-06,Aggregator,Swift,Mid,SP19,Contacted,6,No,Yes
+LD21314,2024-10-31,Aggregator,Venue,Mid,SP10,Booked,4,Yes,No
+LD21315,2024-08-30,Walk-in,City,Mid,SP9,Test Drive,0,Yes,No
+LD21316,2024-10-18,Website,Nexon,Base,SP18,New,8,Yes,Yes
+LD21317,2024-10-27,Aggregator,City,Base,SP7,Test Drive,1,No,No
+LD21318,2025-11-14,Aggregator,Nexon,Top,SP3,Lost,6,No,Yes
+LD21319,2025-01-22,Website,Venue,Mid,SP12,New,7,Yes,Yes
+LD21320,2025-08-10,Website,Nexon,Top,SP15,Contacted,7,Yes,No
+LD21321,2024-07-27,Facebook,Baleno,Top,SP13,Contacted,0,No,Yes
+LD21322,2024-11-09,Facebook,Venue,Top,SP6,Contacted,9,No,No
+LD21323,2025-09-08,Website,City,Top,SP8,Lost,6,No,No
+LD21324,2024-01-26,Referral,Creta,Mid,SP14,Contacted,8,No,Yes
+LD21325,2024-03-19,Website,Nexon,Mid,SP3,Test Drive,2,Yes,Yes
+LD21326,2024-05-07,Facebook,Baleno,Base,SP16,New,7,Yes,No
+LD21327,2025-02-16,Walk-in,Venue,Mid,SP18,New,7,No,No
+LD21328,2024-05-16,Walk-in,Swift,Mid,SP17,New,8,Yes,Yes
+LD21329,2024-11-29,Aggregator,Venue,Top,SP18,Contacted,7,Yes,No
+LD21330,2025-07-01,Walk-in,City,Mid,SP10,Test Drive,4,No,Yes
+LD21331,2025-01-22,Facebook,City,Top,SP17,New,4,No,Yes
+LD21332,2025-07-24,Walk-in,Swift,Mid,SP16,Booked,2,Yes,No
+LD21333,2024-08-17,Referral,Baleno,Base,SP2,Test Drive,5,No,Yes
+LD21334,2025-02-24,Website,City,Top,SP20,New,9,Yes,No
+LD21335,2024-05-03,Website,Baleno,Mid,SP4,New,2,No,Yes
+LD21336,2024-03-28,Facebook,Baleno,Mid,SP11,New,1,Yes,Yes
+LD21337,2024-05-20,Aggregator,Venue,Top,SP7,Contacted,6,No,Yes
+LD21338,2024-02-20,Website,Baleno,Base,SP17,Contacted,9,Yes,Yes
+LD21339,2025-07-20,Walk-in,Nexon,Base,SP19,Booked,2,No,Yes
+LD21340,2025-02-08,Referral,City,Mid,SP6,Lost,3,No,Yes
+LD21341,2024-12-02,Aggregator,City,Mid,SP10,Booked,9,No,No
+LD21342,2025-10-23,Aggregator,Creta,Mid,SP4,Contacted,7,No,No
+LD21343,2025-10-26,Aggregator,Baleno,Top,SP1,Contacted,0,No,Yes
+LD21344,2025-12-31,Website,Creta,Top,SP7,Lost,8,Yes,No
+LD21345,2025-12-31,Aggregator,Venue,Top,SP16,Test Drive,5,Yes,No
+LD21346,2024-12-31,Facebook,Creta,Mid,SP17,Contacted,1,No,No
+LD21347,2024-09-14,Walk-in,Baleno,Base,SP5,Contacted,2,Yes,No
+LD21348,2025-01-22,Referral,City,Top,SP10,Contacted,4,Yes,No
+LD21349,2024-02-14,Walk-in,Venue,Base,SP7,Test Drive,5,No,Yes
+LD21350,2024-09-25,Facebook,Baleno,Mid,SP13,Booked,8,Yes,Yes
+LD21351,2024-11-06,Facebook,Venue,Top,SP7,New,1,Yes,Yes
+LD21352,2025-11-02,Walk-in,Swift,Top,SP15,New,4,Yes,Yes
+LD21353,2024-10-04,Website,Baleno,Top,SP17,Contacted,6,Yes,Yes
+LD21354,2025-04-19,Facebook,Swift,Mid,SP3,New,6,No,No
+LD21355,2025-07-20,Aggregator,Creta,Mid,SP5,Test Drive,3,Yes,No
+LD21356,2024-05-24,Referral,Baleno,Mid,SP10,Test Drive,2,Yes,Yes
+LD21357,2024-08-22,Referral,Swift,Base,SP5,Contacted,7,Yes,Yes
+LD21358,2025-11-21,Facebook,Nexon,Base,SP7,Test Drive,1,Yes,No
+LD21359,2025-12-20,Aggregator,City,Top,SP7,Contacted,4,No,Yes
+LD21360,2024-05-15,Walk-in,Creta,Top,SP14,Test Drive,9,Yes,Yes
+LD21361,2025-03-20,Referral,Baleno,Mid,SP15,Test Drive,4,No,No
+LD21362,2024-12-18,Aggregator,Baleno,Mid,SP5,Contacted,0,No,Yes
+LD21363,2025-01-28,Aggregator,City,Mid,SP5,Test Drive,6,No,Yes
+LD21364,2024-10-01,Website,City,Top,SP4,Contacted,3,No,Yes
+LD21365,2025-01-18,Facebook,Swift,Mid,SP20,Contacted,9,No,Yes
+LD21366,2024-11-18,Aggregator,Swift,Base,SP9,Contacted,1,Yes,Yes
+LD21367,2024-07-01,Walk-in,Swift,Base,SP12,Contacted,7,Yes,No
+LD21368,2025-07-26,Referral,Venue,Top,SP16,Booked,3,No,Yes
+LD21369,2025-03-15,Website,Creta,Top,SP8,New,0,No,Yes
+LD21370,2024-03-03,Walk-in,Baleno,Base,SP9,Test Drive,7,Yes,No
+LD21371,2025-12-27,Referral,Creta,Mid,SP12,Lost,6,Yes,Yes
+LD21372,2025-10-12,Facebook,City,Top,SP20,Contacted,2,No,Yes
+LD21373,2025-10-07,Walk-in,Nexon,Top,SP7,New,2,Yes,No
+LD21374,2024-02-03,Referral,Creta,Top,SP4,New,6,Yes,No
+LD21375,2025-12-05,Website,Creta,Base,SP3,New,1,No,No
+LD21376,2025-04-21,Referral,Swift,Top,SP1,New,4,No,No
+LD21377,2024-03-27,Aggregator,City,Base,SP7,Booked,6,No,No
+LD21378,2024-07-28,Website,Creta,Base,SP9,Contacted,5,No,Yes
+LD21379,2025-04-06,Walk-in,Baleno,Mid,SP2,Test Drive,9,No,No
+LD21380,2024-03-21,Facebook,Swift,Mid,SP7,New,6,Yes,No
+LD21381,2024-11-17,Website,Creta,Mid,SP10,Contacted,1,No,No
+LD21382,2025-02-18,Website,City,Top,SP2,New,6,Yes,No
+LD21383,2024-07-08,Website,Nexon,Base,SP13,Contacted,1,No,Yes
+LD21384,2024-08-20,Referral,Baleno,Top,SP3,New,6,No,No
+LD21385,2025-01-26,Aggregator,Nexon,Base,SP13,Test Drive,7,No,Yes
+LD21386,2024-06-17,Facebook,City,Top,SP10,Test Drive,9,No,Yes
+LD21387,2025-03-18,Facebook,City,Base,SP12,New,7,No,No
+LD21388,2024-06-16,Aggregator,City,Mid,SP3,Booked,4,No,Yes
+LD21389,2024-08-18,Referral,Nexon,Mid,SP20,Contacted,6,Yes,Yes
+LD21390,2024-05-29,Referral,Venue,Top,SP6,Contacted,7,No,Yes
+LD21391,2025-10-25,Aggregator,Baleno,Base,SP3,Booked,3,No,No
+LD21392,2025-07-03,Aggregator,City,Mid,SP2,Lost,1,Yes,No
+LD21393,2025-01-20,Walk-in,Venue,Base,SP14,Booked,6,Yes,Yes
+LD21394,2025-01-15,Referral,Swift,Top,SP15,New,0,No,No
+LD21395,2024-10-01,Website,Venue,Mid,SP18,Lost,1,Yes,No
+LD21396,2025-09-08,Facebook,Swift,Top,SP19,Test Drive,9,Yes,No
+LD21397,2024-03-02,Referral,Nexon,Top,SP10,Test Drive,6,No,Yes
+LD21398,2025-04-11,Aggregator,Venue,Base,SP20,Lost,9,No,No
+LD21399,2025-06-11,Website,Nexon,Top,SP17,Booked,0,Yes,No
+LD21400,2024-05-29,Walk-in,City,Top,SP17,Test Drive,6,No,Yes
+LD21401,2024-05-21,Walk-in,Venue,Base,SP19,Booked,4,Yes,No
+LD21402,2024-04-25,Website,Venue,Base,SP4,Contacted,2,Yes,Yes
+LD21403,2024-03-05,Website,City,Top,SP11,Test Drive,1,Yes,No
+LD21404,2025-03-04,Aggregator,Swift,Mid,SP17,New,6,Yes,No
+LD21405,2024-11-05,Aggregator,City,Mid,SP10,Lost,8,No,No
+LD21406,2025-12-06,Facebook,Baleno,Base,SP17,Test Drive,8,No,No
+LD21407,2025-03-05,Facebook,Venue,Top,SP12,Booked,9,No,Yes
+LD21408,2024-06-09,Walk-in,Baleno,Mid,SP10,Contacted,9,No,No
+LD21409,2024-11-01,Website,City,Base,SP10,Booked,7,No,Yes
+LD21410,2024-12-26,Walk-in,Nexon,Base,SP6,Contacted,1,No,Yes
+LD21411,2024-10-04,Aggregator,City,Base,SP17,Test Drive,0,No,No
+LD21412,2024-10-22,Referral,Creta,Top,SP19,Booked,7,No,No
+LD21413,2025-07-04,Aggregator,Baleno,Base,SP2,New,1,No,No
+LD21414,2024-06-17,Referral,Creta,Mid,SP4,Contacted,3,No,No
+LD21415,2025-04-03,Website,Baleno,Top,SP18,Test Drive,3,No,No
+LD21416,2025-08-02,Website,Nexon,Mid,SP4,Contacted,1,No,No
+LD21417,2024-01-07,Website,Creta,Mid,SP6,Contacted,3,Yes,No
+LD21418,2025-08-19,Facebook,Creta,Mid,SP14,Contacted,6,No,No
+LD21419,2025-12-11,Facebook,Baleno,Top,SP7,New,5,No,No
+LD21420,2024-05-11,Referral,City,Mid,SP12,Booked,9,No,Yes
+LD21421,2025-08-10,Walk-in,Swift,Base,SP2,Lost,5,No,No
+LD21422,2024-12-12,Walk-in,City,Base,SP18,Booked,3,No,No
+LD21423,2025-12-21,Referral,Swift,Mid,SP13,New,1,Yes,Yes
+LD21424,2025-08-18,Facebook,Baleno,Base,SP13,Booked,4,Yes,No
+LD21425,2024-09-09,Aggregator,Venue,Top,SP5,Test Drive,2,No,No
+LD21426,2025-02-13,Referral,City,Top,SP7,Booked,2,No,Yes
+LD21427,2025-06-26,Walk-in,Creta,Base,SP12,Contacted,3,No,No
+LD21428,2024-12-20,Referral,City,Base,SP14,New,4,Yes,Yes
+LD21429,2025-12-13,Referral,Baleno,Top,SP1,Test Drive,1,No,No
+LD21430,2025-07-17,Website,Venue,Mid,SP10,Contacted,5,No,No
+LD21431,2025-01-02,Facebook,Venue,Top,SP9,Booked,5,Yes,No
+LD21432,2025-08-06,Website,City,Mid,SP10,Booked,7,Yes,Yes
+LD21433,2025-05-25,Facebook,City,Base,SP7,Contacted,1,No,Yes
+LD21434,2025-06-16,Referral,Nexon,Base,SP16,Booked,7,No,Yes
+LD21435,2025-06-11,Facebook,City,Mid,SP12,Contacted,7,Yes,Yes
+LD21436,2025-06-11,Walk-in,Baleno,Mid,SP12,New,3,No,No
+LD21437,2025-02-05,Website,Swift,Top,SP19,Contacted,6,No,Yes
+LD21438,2024-06-23,Referral,Nexon,Mid,SP13,New,6,Yes,No
+LD21439,2024-03-18,Walk-in,Swift,Base,SP18,New,0,No,No
+LD21440,2025-03-15,Facebook,Creta,Base,SP3,New,0,Yes,No
+LD21441,2025-07-02,Facebook,Baleno,Base,SP7,New,7,No,No
+LD21442,2024-08-19,Walk-in,Nexon,Mid,SP1,New,0,No,No
+LD21443,2025-02-03,Facebook,Venue,Mid,SP3,Booked,2,Yes,Yes
+LD21444,2024-07-31,Website,Nexon,Base,SP14,New,5,Yes,No
+LD21445,2024-07-11,Aggregator,Creta,Mid,SP4,Contacted,7,Yes,No
+LD21446,2025-07-25,Facebook,Venue,Top,SP19,Contacted,4,Yes,Yes
+LD21447,2025-12-01,Referral,Nexon,Top,SP6,New,4,Yes,No
+LD21448,2024-09-23,Facebook,Venue,Mid,SP20,Lost,3,Yes,Yes
+LD21449,2024-05-05,Referral,City,Mid,SP9,Test Drive,3,Yes,No
+LD21450,2025-12-15,Facebook,Venue,Base,SP11,Booked,6,Yes,Yes
+LD21451,2025-01-16,Facebook,Nexon,Mid,SP15,Contacted,5,Yes,No
+LD21452,2025-06-27,Referral,Venue,Base,SP9,Booked,7,No,No
+LD21453,2025-05-16,Website,Baleno,Top,SP11,Lost,5,No,Yes
+LD21454,2025-02-06,Aggregator,City,Mid,SP10,Contacted,9,Yes,No
+LD21455,2024-09-17,Aggregator,City,Top,SP2,Test Drive,6,No,No
+LD21456,2025-01-21,Website,Creta,Mid,SP14,Test Drive,9,Yes,Yes
+LD21457,2025-02-15,Facebook,City,Mid,SP4,Lost,9,Yes,Yes
+LD21458,2024-12-11,Aggregator,Swift,Base,SP2,New,4,No,No
+LD21459,2024-04-03,Website,Baleno,Base,SP5,Test Drive,5,Yes,Yes
+LD21460,2024-11-23,Website,Creta,Mid,SP14,New,0,Yes,No
+LD21461,2024-04-09,Aggregator,Swift,Mid,SP15,Lost,2,Yes,Yes
+LD21462,2025-04-05,Referral,Venue,Base,SP19,Test Drive,7,Yes,Yes
+LD21463,2024-11-10,Walk-in,Swift,Top,SP6,Booked,2,No,Yes
+LD21464,2024-01-25,Referral,Creta,Mid,SP15,Booked,0,Yes,No
+LD21465,2025-05-08,Facebook,City,Base,SP14,Test Drive,2,No,No
+LD21466,2024-12-18,Referral,Baleno,Mid,SP8,Test Drive,3,No,No
+LD21467,2024-04-26,Walk-in,Creta,Base,SP20,Test Drive,7,Yes,Yes
+LD21468,2024-07-17,Walk-in,Swift,Top,SP12,Contacted,8,No,No
+LD21469,2024-10-05,Website,Swift,Mid,SP4,Contacted,3,No,No
+LD21470,2025-08-04,Facebook,Creta,Mid,SP6,New,6,No,Yes
+LD21471,2024-03-19,Website,Nexon,Top,SP11,Contacted,0,No,Yes
+LD21472,2025-02-27,Referral,Nexon,Mid,SP7,Lost,8,Yes,No
+LD21473,2024-12-19,Referral,Creta,Mid,SP4,Contacted,3,Yes,No
+LD21474,2025-06-09,Aggregator,Nexon,Mid,SP15,Booked,8,Yes,No
+LD21475,2025-06-24,Website,Creta,Base,SP1,New,2,No,No
+LD21476,2025-10-17,Website,City,Base,SP9,Contacted,4,No,No
+LD21477,2025-04-21,Website,Creta,Mid,SP20,New,0,Yes,Yes
+LD21478,2024-01-10,Website,Venue,Top,SP8,Contacted,2,No,No
+LD21479,2025-07-12,Walk-in,Baleno,Top,SP12,New,4,No,No
+LD21480,2025-05-17,Aggregator,Baleno,Mid,SP7,Test Drive,5,Yes,No
+LD21481,2024-09-16,Facebook,Venue,Base,SP18,Test Drive,7,No,Yes
+LD21482,2025-06-07,Facebook,Swift,Base,SP1,Booked,0,No,Yes
+LD21483,2025-08-18,Facebook,Swift,Mid,SP9,Test Drive,2,Yes,No
+LD21484,2024-01-06,Walk-in,Swift,Base,SP7,Lost,0,Yes,No
+LD21485,2024-02-04,Aggregator,Swift,Base,SP14,Booked,4,Yes,No
+LD21486,2024-06-23,Aggregator,City,Top,SP1,New,7,Yes,No
+LD21487,2025-03-17,Walk-in,Venue,Mid,SP13,Contacted,3,Yes,Yes
+LD21488,2025-07-30,Website,Baleno,Base,SP20,New,8,Yes,No
+LD21489,2024-05-26,Referral,Venue,Base,SP15,Contacted,5,Yes,No
+LD21490,2025-07-22,Website,Baleno,Base,SP5,Test Drive,5,No,No
+LD21491,2024-07-11,Facebook,Swift,Mid,SP5,Lost,4,Yes,Yes
+LD21492,2024-01-13,Website,City,Mid,SP14,Test Drive,9,No,Yes
+LD21493,2025-06-13,Walk-in,Creta,Base,SP14,Booked,4,Yes,Yes
+LD21494,2024-09-02,Facebook,Creta,Top,SP14,Contacted,6,No,Yes
+LD21495,2025-11-05,Referral,Nexon,Top,SP5,New,7,No,Yes
+LD21496,2024-04-23,Facebook,Swift,Mid,SP11,Booked,6,No,No
+LD21497,2024-08-20,Website,Swift,Top,SP19,New,0,No,Yes
+LD21498,2025-11-08,Aggregator,Venue,Base,SP5,Booked,0,No,No
+LD21499,2024-11-17,Aggregator,City,Mid,SP4,New,9,Yes,No
+LD21500,2025-06-21,Aggregator,City,Mid,SP15,Booked,5,Yes,No
+LD21501,2024-05-05,Facebook,Venue,Top,SP7,Booked,2,Yes,Yes
+LD21502,2024-11-08,Aggregator,City,Mid,SP5,Test Drive,8,No,Yes
+LD21503,2025-05-25,Walk-in,City,Top,SP15,Booked,6,No,Yes
+LD21504,2025-04-28,Referral,Creta,Top,SP14,Contacted,1,No,No
+LD21505,2024-10-07,Aggregator,City,Base,SP3,New,2,Yes,No
+LD21506,2024-10-09,Walk-in,Swift,Top,SP5,New,7,No,Yes
+LD21507,2025-10-12,Walk-in,Creta,Top,SP12,Contacted,0,No,Yes
+LD21508,2025-09-04,Facebook,Swift,Mid,SP20,Contacted,4,Yes,Yes
+LD21509,2025-01-26,Facebook,Swift,Base,SP14,Booked,9,Yes,No
+LD21510,2025-06-06,Referral,Venue,Base,SP5,New,0,Yes,No
+LD21511,2025-01-16,Referral,Nexon,Top,SP4,Lost,8,No,Yes
+LD21512,2024-08-03,Website,City,Mid,SP16,Lost,6,No,No
+LD21513,2025-06-25,Referral,City,Mid,SP7,Booked,4,Yes,No
+LD21514,2025-08-28,Facebook,City,Mid,SP3,Lost,5,No,Yes
+LD21515,2024-04-25,Walk-in,City,Base,SP4,Booked,2,No,No
+LD21516,2025-05-23,Website,Creta,Base,SP20,Test Drive,2,No,No
+LD21517,2025-05-14,Referral,Baleno,Top,SP6,Test Drive,6,No,No
+LD21518,2024-09-27,Walk-in,Swift,Top,SP3,Test Drive,6,Yes,Yes
+LD21519,2025-03-15,Facebook,Nexon,Mid,SP1,New,6,No,No
+LD21520,2024-10-17,Aggregator,Nexon,Top,SP3,New,1,No,No
+LD21521,2024-02-08,Website,Baleno,Mid,SP8,Test Drive,1,Yes,Yes
+LD21522,2024-01-24,Walk-in,Baleno,Base,SP16,New,4,No,Yes
+LD21523,2024-02-12,Facebook,Baleno,Top,SP7,Lost,3,No,No
+LD21524,2024-06-18,Facebook,Creta,Mid,SP18,Test Drive,6,Yes,No
+LD21525,2024-12-05,Website,Baleno,Base,SP9,Contacted,2,No,No
+LD21526,2024-06-17,Website,Creta,Mid,SP3,New,4,Yes,Yes
+LD21527,2025-06-21,Referral,Venue,Top,SP18,Contacted,1,No,Yes
+LD21528,2025-11-22,Referral,Venue,Mid,SP16,Contacted,0,No,No
+LD21529,2025-04-16,Website,Nexon,Base,SP1,New,8,No,Yes
+LD21530,2025-10-23,Website,Venue,Top,SP20,Lost,3,Yes,Yes
+LD21531,2025-10-06,Walk-in,Creta,Base,SP16,Contacted,7,No,Yes
+LD21532,2024-05-22,Referral,Creta,Top,SP12,Test Drive,6,No,Yes
+LD21533,2025-11-06,Facebook,Swift,Mid,SP6,New,0,Yes,Yes
+LD21534,2024-04-10,Referral,Baleno,Base,SP9,Lost,9,No,Yes
+LD21535,2025-07-28,Referral,City,Base,SP13,Test Drive,6,No,No
+LD21536,2025-08-27,Website,City,Mid,SP12,Test Drive,1,No,No
+LD21537,2025-12-19,Website,Baleno,Base,SP13,Booked,2,Yes,No
+LD21538,2025-04-19,Referral,City,Base,SP18,Test Drive,0,Yes,Yes
+LD21539,2024-11-06,Aggregator,City,Base,SP19,New,6,Yes,No
+LD21540,2025-08-06,Aggregator,City,Base,SP19,Contacted,2,No,No
+LD21541,2024-02-29,Referral,Nexon,Mid,SP19,Contacted,5,Yes,Yes
+LD21542,2024-01-29,Aggregator,Creta,Base,SP6,Contacted,6,No,No
+LD21543,2025-06-14,Referral,Creta,Base,SP16,Contacted,2,Yes,No
+LD21544,2024-03-13,Website,Creta,Base,SP7,Booked,1,Yes,No
+LD21545,2025-01-28,Website,Baleno,Top,SP7,New,8,No,No
+LD21546,2025-01-28,Website,Venue,Top,SP19,New,8,Yes,Yes
+LD21547,2025-04-25,Facebook,Nexon,Mid,SP16,Lost,6,Yes,No
+LD21548,2025-04-17,Website,Nexon,Mid,SP17,Lost,4,No,Yes
+LD21549,2024-11-08,Website,City,Mid,SP19,Lost,3,No,Yes
+LD21550,2025-03-13,Referral,Swift,Base,SP16,Test Drive,3,No,No
+LD21551,2024-11-19,Aggregator,Creta,Top,SP16,New,0,No,Yes
+LD21552,2024-03-27,Aggregator,Nexon,Top,SP19,Booked,3,No,Yes
+LD21553,2024-12-24,Website,Nexon,Mid,SP15,New,6,No,Yes
+LD21554,2025-11-25,Website,Swift,Top,SP3,New,4,No,Yes
+LD21555,2024-07-15,Website,City,Mid,SP15,New,8,No,No
+LD21556,2025-01-19,Referral,Nexon,Base,SP16,Test Drive,3,Yes,No
+LD21557,2024-04-27,Referral,Nexon,Top,SP20,New,2,No,Yes
+LD21558,2025-05-12,Referral,Venue,Base,SP5,Booked,5,Yes,Yes
+LD21559,2025-04-06,Aggregator,Swift,Base,SP19,New,3,No,Yes
+LD21560,2025-05-10,Facebook,City,Top,SP10,New,1,No,Yes
+LD21561,2025-08-16,Aggregator,City,Mid,SP13,Contacted,4,Yes,No
+LD21562,2024-09-03,Referral,Creta,Top,SP15,Contacted,3,Yes,Yes
+LD21563,2024-08-21,Walk-in,Venue,Base,SP12,Lost,4,Yes,No
+LD21564,2025-02-20,Facebook,City,Mid,SP17,Lost,8,No,Yes
+LD21565,2025-04-11,Website,Venue,Base,SP15,New,3,No,Yes
+LD21566,2025-04-26,Aggregator,Creta,Mid,SP4,Lost,5,No,Yes
+LD21567,2024-12-30,Facebook,Swift,Top,SP15,Test Drive,3,No,No
+LD21568,2024-06-01,Walk-in,Nexon,Base,SP17,Contacted,0,Yes,No
+LD21569,2024-09-28,Facebook,Nexon,Mid,SP11,Booked,1,No,No
+LD21570,2025-01-26,Aggregator,Baleno,Mid,SP15,Lost,5,Yes,Yes
+LD21571,2025-06-30,Referral,Baleno,Top,SP20,New,7,No,No
+LD21572,2025-12-25,Website,Baleno,Mid,SP7,New,8,No,Yes
+LD21573,2025-12-23,Referral,Nexon,Mid,SP13,Contacted,3,Yes,Yes
+LD21574,2025-03-05,Referral,Venue,Base,SP13,New,5,No,No
+LD21575,2025-10-12,Aggregator,Baleno,Top,SP20,Contacted,2,Yes,Yes
+LD21576,2024-07-07,Referral,Swift,Top,SP20,Test Drive,8,No,No
+LD21577,2024-09-08,Referral,City,Base,SP2,Booked,7,No,Yes
+LD21578,2025-01-29,Aggregator,Venue,Base,SP10,Contacted,0,No,Yes
+LD21579,2025-10-23,Aggregator,Nexon,Base,SP18,Contacted,1,No,Yes
+LD21580,2024-08-06,Walk-in,Swift,Mid,SP20,Booked,9,No,Yes
+LD21581,2025-08-16,Referral,Nexon,Top,SP5,Contacted,8,Yes,Yes
+LD21582,2024-07-08,Facebook,Venue,Top,SP20,Booked,9,No,No
+LD21583,2024-08-21,Website,Venue,Top,SP19,Lost,2,No,Yes
+LD21584,2025-11-18,Website,Venue,Mid,SP2,Lost,2,No,Yes
+LD21585,2024-08-19,Aggregator,Creta,Top,SP4,Test Drive,9,No,No
+LD21586,2024-12-23,Aggregator,City,Top,SP16,Contacted,8,Yes,No
+LD21587,2025-04-22,Walk-in,Baleno,Top,SP16,New,2,No,Yes
+LD21588,2025-07-28,Referral,Creta,Top,SP17,Booked,9,Yes,No
+LD21589,2025-03-04,Aggregator,City,Base,SP15,Lost,4,Yes,Yes
+LD21590,2024-08-24,Aggregator,Nexon,Mid,SP13,New,5,Yes,No
+LD21591,2024-02-02,Website,Baleno,Top,SP1,New,2,Yes,No
+LD21592,2024-07-31,Referral,Creta,Top,SP5,Booked,9,Yes,Yes
+LD21593,2025-07-25,Walk-in,Creta,Top,SP20,New,7,No,No
+LD21594,2025-01-13,Aggregator,Swift,Top,SP1,New,1,Yes,Yes
+LD21595,2024-01-02,Aggregator,Creta,Top,SP12,Lost,5,Yes,Yes
+LD21596,2025-03-25,Aggregator,Venue,Base,SP15,New,1,Yes,Yes
+LD21597,2025-07-22,Website,Nexon,Base,SP4,New,8,Yes,No
+LD21598,2025-03-02,Aggregator,Creta,Mid,SP19,Test Drive,5,Yes,Yes
+LD21599,2025-10-11,Aggregator,Venue,Mid,SP16,Booked,8,Yes,No
+LD21600,2024-10-05,Website,City,Top,SP18,Contacted,3,No,Yes
+LD21601,2024-08-01,Aggregator,City,Top,SP17,Contacted,2,No,No
+LD21602,2024-10-11,Referral,Venue,Base,SP11,Test Drive,1,Yes,No
+LD21603,2025-06-26,Referral,Swift,Mid,SP20,Test Drive,7,Yes,No
+LD21604,2025-12-18,Website,Swift,Top,SP13,New,3,Yes,No
+LD21605,2024-09-30,Referral,City,Top,SP9,New,1,Yes,Yes
+LD21606,2024-01-11,Walk-in,Nexon,Top,SP17,Test Drive,8,Yes,Yes
+LD21607,2024-02-16,Aggregator,Creta,Mid,SP17,Booked,7,No,Yes
+LD21608,2025-05-29,Walk-in,City,Base,SP5,Booked,4,No,Yes
+LD21609,2025-10-03,Referral,City,Base,SP8,Booked,7,No,No
+LD21610,2025-03-13,Website,Venue,Top,SP3,Booked,4,No,Yes
+LD21611,2025-08-06,Website,Swift,Top,SP6,New,6,No,No
+LD21612,2025-11-01,Walk-in,Nexon,Top,SP3,Booked,4,No,No
+LD21613,2025-03-02,Referral,Venue,Top,SP8,Booked,4,Yes,Yes
+LD21614,2025-03-07,Aggregator,City,Top,SP12,Test Drive,3,Yes,Yes
+LD21615,2024-05-09,Referral,Baleno,Mid,SP4,New,4,No,Yes
+LD21616,2024-01-22,Referral,Creta,Base,SP2,Test Drive,6,Yes,Yes
+LD21617,2025-01-23,Website,City,Mid,SP10,Test Drive,2,No,Yes
+LD21618,2024-05-14,Facebook,Venue,Mid,SP15,New,3,No,No
+LD21619,2025-06-15,Aggregator,Baleno,Top,SP13,Test Drive,7,No,Yes
+LD21620,2024-08-07,Aggregator,Baleno,Mid,SP15,Booked,5,Yes,Yes
+LD21621,2024-11-28,Website,City,Base,SP19,Booked,7,Yes,Yes
+LD21622,2024-05-09,Referral,Nexon,Top,SP18,New,1,No,No
+LD21623,2024-02-01,Website,Swift,Base,SP13,New,8,Yes,Yes
+LD21624,2025-08-24,Referral,Baleno,Mid,SP20,Test Drive,6,No,No
+LD21625,2025-02-28,Facebook,Creta,Top,SP20,Booked,4,Yes,No
+LD21626,2024-10-24,Facebook,Venue,Base,SP1,Test Drive,6,Yes,No
+LD21627,2025-05-18,Walk-in,Venue,Base,SP16,Booked,1,No,Yes
+LD21628,2025-11-15,Referral,Venue,Top,SP8,New,3,No,No
+LD21629,2024-12-22,Website,City,Base,SP6,Test Drive,6,No,No
+LD21630,2025-03-30,Website,Venue,Top,SP3,Lost,1,No,No
+LD21631,2025-02-04,Website,Venue,Top,SP20,Test Drive,7,Yes,Yes
+LD21632,2025-07-12,Walk-in,Creta,Mid,SP16,Lost,9,No,No
+LD21633,2025-12-09,Aggregator,Swift,Base,SP2,Test Drive,9,Yes,Yes
+LD21634,2025-03-30,Website,Nexon,Top,SP2,Booked,4,No,No
+LD21635,2024-02-03,Facebook,City,Mid,SP15,New,4,Yes,No
+LD21636,2024-09-04,Website,City,Mid,SP10,New,7,No,Yes
+LD21637,2024-02-11,Website,Venue,Top,SP1,New,0,No,No
+LD21638,2024-05-02,Website,Creta,Top,SP20,Contacted,5,No,No
+LD21639,2024-01-27,Aggregator,Baleno,Base,SP15,Contacted,1,Yes,No
+LD21640,2025-04-06,Website,Venue,Base,SP1,Booked,0,Yes,Yes
+LD21641,2025-07-24,Aggregator,Venue,Base,SP16,Lost,6,No,Yes
+LD21642,2024-05-26,Aggregator,City,Top,SP18,Test Drive,3,Yes,Yes
+LD21643,2025-05-10,Walk-in,City,Mid,SP5,New,0,No,No
+LD21644,2025-09-18,Facebook,Venue,Mid,SP5,Lost,9,Yes,No
+LD21645,2025-04-30,Website,City,Top,SP10,Test Drive,5,No,No
+LD21646,2025-04-04,Website,Creta,Base,SP12,Booked,9,No,Yes
+LD21647,2025-12-11,Website,Baleno,Mid,SP10,Booked,5,Yes,Yes
+LD21648,2024-05-07,Aggregator,Baleno,Mid,SP2,Lost,2,Yes,Yes
+LD21649,2025-01-10,Referral,Baleno,Base,SP1,Test Drive,5,Yes,No
+LD21650,2025-10-26,Facebook,Venue,Mid,SP16,Booked,9,No,Yes
+LD21651,2024-03-23,Website,Nexon,Base,SP18,Test Drive,8,Yes,Yes
+LD21652,2025-06-18,Referral,Venue,Mid,SP7,Contacted,5,Yes,No
+LD21653,2025-06-06,Referral,Venue,Mid,SP4,Test Drive,0,Yes,Yes
+LD21654,2025-11-29,Referral,Creta,Mid,SP10,Contacted,9,Yes,No
+LD21655,2025-09-19,Facebook,Baleno,Base,SP10,Contacted,5,Yes,No
+LD21656,2025-11-04,Referral,City,Mid,SP11,Booked,7,No,Yes
+LD21657,2024-04-12,Website,City,Mid,SP3,New,6,No,Yes
+LD21658,2025-06-02,Website,Swift,Mid,SP14,Test Drive,7,Yes,No
+LD21659,2024-12-27,Walk-in,Swift,Top,SP13,Booked,7,No,Yes
+LD21660,2025-11-14,Aggregator,Nexon,Mid,SP19,Booked,8,Yes,No
+LD21661,2024-09-12,Referral,City,Mid,SP10,Contacted,2,Yes,Yes
+LD21662,2024-09-03,Aggregator,Baleno,Base,SP15,Booked,6,No,Yes
+LD21663,2024-07-10,Aggregator,Venue,Base,SP8,Lost,5,No,No
+LD21664,2025-09-17,Aggregator,City,Top,SP17,Test Drive,1,No,No
+LD21665,2025-06-18,Aggregator,Nexon,Base,SP6,Booked,4,No,Yes
+LD21666,2024-11-09,Aggregator,Nexon,Base,SP7,Contacted,2,No,Yes
+LD21667,2024-10-02,Website,City,Base,SP14,Lost,4,No,No
+LD21668,2025-01-07,Facebook,Swift,Top,SP8,Test Drive,8,No,Yes
+LD21669,2025-03-19,Referral,Baleno,Top,SP12,Contacted,7,Yes,Yes
+LD21670,2025-10-09,Referral,City,Mid,SP18,Contacted,8,Yes,Yes
+LD21671,2024-07-13,Website,Venue,Mid,SP14,Test Drive,8,Yes,No
+LD21672,2024-09-14,Website,Venue,Base,SP1,New,7,No,Yes
+LD21673,2025-08-04,Aggregator,Creta,Mid,SP4,Booked,7,Yes,Yes
+LD21674,2024-12-25,Facebook,Venue,Mid,SP17,New,5,Yes,Yes
+LD21675,2025-07-01,Referral,City,Top,SP18,Test Drive,5,Yes,No
+LD21676,2024-04-17,Walk-in,City,Top,SP19,Test Drive,5,Yes,No
+LD21677,2024-01-24,Website,Venue,Mid,SP4,Booked,9,No,Yes
+LD21678,2025-10-13,Walk-in,Swift,Mid,SP6,Booked,5,Yes,No
+LD21679,2025-04-09,Referral,Baleno,Mid,SP8,Booked,8,Yes,No
+LD21680,2024-01-22,Website,Nexon,Base,SP15,Lost,9,Yes,Yes
+LD21681,2025-05-16,Referral,City,Top,SP20,Test Drive,0,Yes,Yes
+LD21682,2025-12-16,Website,Venue,Mid,SP1,Booked,9,Yes,No
+LD21683,2025-05-15,Referral,Nexon,Mid,SP5,New,5,No,Yes
+LD21684,2025-08-15,Walk-in,Venue,Base,SP16,Booked,7,Yes,Yes
+LD21685,2025-02-10,Facebook,City,Top,SP6,New,0,Yes,Yes
+LD21686,2024-11-25,Website,Creta,Base,SP10,Lost,5,Yes,Yes
+LD21687,2025-12-03,Walk-in,Baleno,Base,SP10,Contacted,8,Yes,No
+LD21688,2024-10-12,Referral,City,Mid,SP5,New,5,Yes,No
+LD21689,2024-05-26,Walk-in,Nexon,Base,SP8,New,1,Yes,Yes
+LD21690,2025-01-18,Website,Venue,Base,SP1,New,0,No,Yes
+LD21691,2024-01-11,Walk-in,Creta,Mid,SP5,Contacted,3,Yes,No
+LD21692,2024-10-02,Referral,City,Top,SP1,Test Drive,5,Yes,Yes
+LD21693,2025-07-21,Aggregator,Baleno,Mid,SP7,Lost,9,No,Yes
+LD21694,2025-11-15,Facebook,Creta,Top,SP15,Contacted,9,No,Yes
+LD21695,2024-10-29,Facebook,Nexon,Base,SP14,New,8,Yes,No
+LD21696,2024-07-22,Aggregator,Venue,Base,SP9,Booked,4,Yes,Yes
+LD21697,2024-12-10,Website,Swift,Mid,SP8,New,6,No,Yes
+LD21698,2024-09-22,Walk-in,Baleno,Mid,SP8,Booked,5,Yes,Yes
+LD21699,2024-01-22,Walk-in,Creta,Mid,SP3,Contacted,5,No,Yes
+LD21700,2025-06-19,Aggregator,City,Base,SP20,Test Drive,8,Yes,Yes
+LD21701,2025-12-06,Aggregator,City,Base,SP4,New,4,Yes,No
+LD21702,2024-04-05,Referral,Creta,Top,SP17,New,1,Yes,Yes
+LD21703,2025-03-20,Referral,City,Mid,SP6,Booked,7,No,No
+LD21704,2024-09-19,Facebook,Creta,Base,SP2,Contacted,2,No,No
+LD21705,2025-08-06,Website,Baleno,Top,SP9,Lost,8,No,Yes
+LD21706,2025-01-17,Website,City,Mid,SP14,Test Drive,4,No,Yes
+LD21707,2025-07-03,Aggregator,Baleno,Mid,SP1,Booked,0,Yes,Yes
+LD21708,2025-01-26,Facebook,Venue,Top,SP17,Lost,3,Yes,Yes
+LD21709,2025-08-23,Facebook,Venue,Top,SP11,Contacted,8,No,Yes
+LD21710,2025-06-23,Referral,Venue,Top,SP6,Booked,0,No,Yes
+LD21711,2024-04-01,Walk-in,Venue,Base,SP1,New,7,No,Yes
+LD21712,2025-07-19,Website,City,Mid,SP19,Test Drive,7,No,Yes
+LD21713,2024-06-07,Facebook,Creta,Mid,SP16,Booked,8,Yes,Yes
+LD21714,2024-08-15,Referral,City,Top,SP18,Contacted,8,No,Yes
+LD21715,2025-04-17,Referral,Nexon,Base,SP11,New,5,Yes,No
+LD21716,2025-01-06,Referral,City,Top,SP9,Test Drive,4,No,Yes
+LD21717,2025-01-10,Walk-in,Baleno,Base,SP6,Booked,6,Yes,Yes
+LD21718,2025-07-06,Facebook,Creta,Mid,SP2,Lost,8,No,Yes
+LD21719,2024-02-06,Aggregator,Swift,Mid,SP8,Booked,4,Yes,No
+LD21720,2025-09-28,Aggregator,Swift,Base,SP16,Contacted,2,Yes,No
+LD21721,2025-11-21,Referral,Creta,Mid,SP8,Booked,8,Yes,No
+LD21722,2024-02-06,Referral,Swift,Mid,SP8,Booked,9,Yes,Yes
+LD21723,2024-04-10,Walk-in,Creta,Top,SP14,Contacted,0,Yes,No
+LD21724,2025-06-26,Referral,Baleno,Base,SP1,New,0,Yes,Yes
+LD21725,2024-07-08,Facebook,Baleno,Mid,SP7,Booked,9,Yes,Yes
+LD21726,2025-05-26,Referral,City,Mid,SP2,Booked,3,Yes,No
+LD21727,2025-10-19,Referral,Swift,Base,SP15,New,1,Yes,Yes
+LD21728,2024-03-30,Facebook,Creta,Mid,SP18,Lost,6,No,No
+LD21729,2024-01-06,Website,Baleno,Base,SP4,Test Drive,1,No,No
+LD21730,2024-05-18,Aggregator,City,Base,SP18,Lost,6,Yes,No
+LD21731,2024-04-04,Referral,Swift,Top,SP5,Contacted,7,No,Yes
+LD21732,2025-09-22,Facebook,Swift,Base,SP16,Test Drive,7,No,Yes
+LD21733,2025-09-23,Aggregator,Swift,Top,SP13,Contacted,2,Yes,Yes
+LD21734,2025-01-20,Walk-in,Baleno,Mid,SP9,Booked,8,Yes,Yes
+LD21735,2024-05-02,Website,Baleno,Base,SP5,Contacted,9,No,No
+LD21736,2024-10-11,Referral,Swift,Top,SP8,Booked,9,Yes,Yes
+LD21737,2024-12-31,Website,Baleno,Base,SP18,New,9,Yes,No
+LD21738,2025-11-21,Referral,Swift,Mid,SP3,Booked,5,Yes,Yes
+LD21739,2025-05-04,Referral,Venue,Top,SP6,Contacted,3,No,No
+LD21740,2024-11-20,Referral,Baleno,Top,SP11,New,7,No,No
+LD21741,2025-02-10,Website,Creta,Top,SP14,New,3,No,Yes
+LD21742,2025-06-02,Walk-in,Baleno,Mid,SP19,New,3,Yes,No
+LD21743,2025-09-30,Facebook,Swift,Top,SP7,Booked,7,Yes,Yes
+LD21744,2024-03-17,Facebook,Creta,Mid,SP10,Contacted,3,Yes,Yes
+LD21745,2024-08-21,Walk-in,City,Mid,SP15,New,0,Yes,No
+LD21746,2025-08-08,Walk-in,Creta,Base,SP6,Contacted,5,Yes,Yes
+LD21747,2025-04-28,Referral,Creta,Mid,SP20,Test Drive,7,No,No
+LD21748,2025-04-08,Referral,Baleno,Top,SP6,New,2,Yes,Yes
+LD21749,2024-09-27,Facebook,Nexon,Top,SP16,Contacted,1,No,No
+LD21750,2025-04-11,Referral,Creta,Mid,SP9,Test Drive,5,Yes,No
+LD21751,2025-04-13,Referral,Creta,Mid,SP19,Test Drive,0,No,Yes
+LD21752,2025-09-23,Walk-in,Swift,Base,SP18,Test Drive,4,Yes,Yes
+LD21753,2025-06-30,Website,Baleno,Base,SP5,Contacted,5,Yes,No
+LD21754,2025-12-19,Aggregator,Swift,Top,SP16,New,7,Yes,Yes
+LD21755,2024-09-26,Aggregator,Baleno,Mid,SP7,Booked,6,Yes,No
+LD21756,2025-08-27,Referral,City,Top,SP19,Lost,5,No,Yes
+LD21757,2025-01-12,Referral,Nexon,Mid,SP5,Test Drive,1,Yes,No
+LD21758,2024-06-25,Aggregator,Creta,Top,SP20,Contacted,7,No,Yes
+LD21759,2024-09-30,Walk-in,Baleno,Top,SP11,Test Drive,7,No,No
+LD21760,2025-11-21,Aggregator,Creta,Top,SP18,Booked,4,No,Yes
+LD21761,2025-10-02,Aggregator,Creta,Mid,SP7,Test Drive,2,Yes,Yes
+LD21762,2025-09-28,Aggregator,Venue,Base,SP18,Booked,7,Yes,No
+LD21763,2024-01-27,Referral,Swift,Base,SP3,Contacted,4,No,No
+LD21764,2025-07-29,Referral,Nexon,Mid,SP5,Booked,2,Yes,No
+LD21765,2024-02-29,Aggregator,Baleno,Base,SP13,Test Drive,8,No,No
+LD21766,2025-12-31,Referral,City,Top,SP16,Test Drive,8,No,No
+LD21767,2024-08-04,Aggregator,Nexon,Mid,SP12,Test Drive,6,Yes,No
+LD21768,2025-11-11,Walk-in,Venue,Mid,SP7,Test Drive,7,Yes,Yes
+LD21769,2025-10-22,Referral,Swift,Base,SP13,Booked,4,No,Yes
+LD21770,2024-09-26,Website,City,Base,SP1,Lost,4,No,No
+LD21771,2024-04-25,Referral,City,Top,SP15,New,4,Yes,Yes
+LD21772,2024-09-01,Walk-in,Creta,Mid,SP12,Test Drive,1,Yes,No
+LD21773,2025-10-21,Walk-in,Swift,Base,SP17,Lost,2,Yes,Yes
+LD21774,2025-08-26,Referral,Venue,Mid,SP20,New,7,No,No
+LD21775,2024-03-25,Facebook,Baleno,Top,SP5,Contacted,5,No,No
+LD21776,2025-08-21,Aggregator,Baleno,Top,SP17,New,8,No,Yes
+LD21777,2025-09-23,Aggregator,Venue,Top,SP15,New,6,Yes,No
+LD21778,2025-03-25,Walk-in,Creta,Mid,SP20,Lost,5,No,Yes
+LD21779,2025-06-19,Referral,Creta,Mid,SP19,Contacted,3,No,Yes
+LD21780,2024-03-29,Facebook,City,Mid,SP1,Test Drive,6,No,Yes
+LD21781,2025-07-02,Website,Swift,Mid,SP4,New,3,Yes,Yes
+LD21782,2025-05-21,Aggregator,City,Mid,SP3,New,6,No,Yes
+LD21783,2025-02-11,Facebook,Baleno,Top,SP8,Booked,4,Yes,Yes
+LD21784,2024-09-27,Aggregator,Venue,Top,SP9,Test Drive,1,No,Yes
+LD21785,2025-06-07,Referral,Swift,Top,SP12,New,6,No,Yes
+LD21786,2025-05-08,Aggregator,Venue,Base,SP5,Lost,7,Yes,Yes
+LD21787,2025-08-29,Website,Swift,Top,SP9,Contacted,9,Yes,Yes
+LD21788,2025-03-23,Referral,Nexon,Mid,SP1,Contacted,1,Yes,No
+LD21789,2025-06-26,Walk-in,Baleno,Top,SP11,Test Drive,5,No,Yes
+LD21790,2024-12-15,Facebook,Baleno,Base,SP7,New,3,Yes,Yes
+LD21791,2024-11-23,Aggregator,Nexon,Base,SP20,Test Drive,4,No,No
+LD21792,2024-10-12,Referral,Swift,Base,SP14,Test Drive,0,No,No
+LD21793,2024-02-04,Referral,Creta,Base,SP3,Contacted,5,Yes,No
+LD21794,2025-06-16,Aggregator,Swift,Base,SP11,Booked,7,Yes,No
+LD21795,2025-09-14,Walk-in,Baleno,Mid,SP17,Contacted,1,Yes,Yes
+LD21796,2025-05-02,Aggregator,Venue,Top,SP18,Booked,0,Yes,Yes
+LD21797,2025-05-01,Walk-in,City,Mid,SP19,New,8,No,Yes
+LD21798,2024-05-24,Aggregator,Venue,Mid,SP18,Lost,1,No,No
+LD21799,2025-06-07,Referral,Baleno,Base,SP6,Booked,7,Yes,No
+LD21800,2024-05-25,Website,Venue,Top,SP15,New,4,Yes,Yes
+LD21801,2025-05-17,Website,Creta,Top,SP7,Lost,1,No,No
+LD21802,2025-08-26,Referral,Creta,Top,SP5,Test Drive,4,No,Yes
+LD21803,2025-09-18,Website,Swift,Base,SP5,Booked,8,Yes,No
+LD21804,2025-06-10,Walk-in,Venue,Mid,SP7,Booked,5,No,No
+LD21805,2024-09-28,Referral,Venue,Top,SP12,New,2,No,Yes
+LD21806,2025-06-17,Walk-in,Baleno,Mid,SP8,New,7,No,Yes
+LD21807,2025-09-21,Referral,Swift,Top,SP18,Contacted,0,No,Yes
+LD21808,2024-04-04,Walk-in,Swift,Top,SP18,Contacted,8,No,No
+LD21809,2025-03-22,Walk-in,Venue,Top,SP17,Contacted,8,No,No
+LD21810,2025-02-18,Website,City,Top,SP11,Test Drive,3,No,Yes
+LD21811,2024-09-13,Referral,Venue,Base,SP15,New,7,No,Yes
+LD21812,2024-09-18,Aggregator,Venue,Base,SP20,Test Drive,2,Yes,Yes
+LD21813,2024-03-27,Website,Venue,Mid,SP6,New,5,No,No
+LD21814,2025-03-11,Walk-in,Creta,Base,SP12,Contacted,9,Yes,No
+LD21815,2025-07-23,Walk-in,Nexon,Top,SP7,New,9,Yes,Yes
+LD21816,2024-04-17,Aggregator,Swift,Mid,SP8,Booked,7,Yes,Yes
+LD21817,2024-01-19,Aggregator,Nexon,Mid,SP4,Booked,8,Yes,Yes
+LD21818,2024-12-30,Walk-in,Creta,Mid,SP3,New,7,Yes,No
+LD21819,2025-10-14,Aggregator,City,Top,SP3,Booked,8,No,No
+LD21820,2025-01-13,Facebook,Baleno,Top,SP10,Booked,3,Yes,Yes
+LD21821,2024-06-08,Website,City,Mid,SP15,Lost,9,No,No
+LD21822,2024-04-09,Referral,Swift,Base,SP13,Test Drive,0,Yes,Yes
+LD21823,2024-09-21,Aggregator,Baleno,Top,SP19,Contacted,6,No,Yes
+LD21824,2024-02-18,Aggregator,Nexon,Top,SP8,Contacted,9,No,Yes
+LD21825,2025-11-07,Facebook,City,Base,SP18,Contacted,3,Yes,No
+LD21826,2025-02-18,Referral,Swift,Mid,SP5,Test Drive,0,No,Yes
+LD21827,2024-02-28,Facebook,City,Base,SP7,Contacted,2,Yes,Yes
+LD21828,2024-07-01,Referral,Baleno,Top,SP5,Test Drive,6,No,No
+LD21829,2025-10-20,Website,Baleno,Mid,SP19,New,2,No,Yes
+LD21830,2025-03-22,Aggregator,City,Mid,SP17,New,0,Yes,Yes
+LD21831,2024-10-27,Website,Creta,Base,SP19,Lost,6,No,Yes
+LD21832,2025-08-30,Referral,City,Top,SP4,Lost,7,No,Yes
+LD21833,2025-07-08,Aggregator,Nexon,Top,SP7,Booked,4,No,No
+LD21834,2024-12-19,Facebook,City,Mid,SP6,Contacted,5,No,No
+LD21835,2024-07-31,Walk-in,City,Top,SP14,Lost,2,No,Yes
+LD21836,2024-07-07,Facebook,Creta,Mid,SP19,New,4,No,No
+LD21837,2025-10-04,Walk-in,Venue,Mid,SP20,Booked,2,Yes,No
+LD21838,2024-12-12,Facebook,Baleno,Mid,SP11,New,1,No,No
+LD21839,2024-05-16,Referral,Nexon,Top,SP7,Test Drive,6,Yes,No
+LD21840,2024-01-30,Website,Swift,Base,SP3,Booked,9,No,No
+LD21841,2024-05-25,Walk-in,Baleno,Mid,SP20,Booked,6,Yes,No
+LD21842,2025-04-12,Referral,Baleno,Base,SP17,Booked,7,No,No
+LD21843,2025-09-08,Website,Venue,Base,SP11,Lost,0,Yes,No
+LD21844,2025-05-17,Website,Baleno,Base,SP15,Test Drive,1,No,Yes
+LD21845,2024-07-09,Aggregator,Baleno,Base,SP7,Test Drive,1,Yes,Yes
+LD21846,2025-04-15,Aggregator,Creta,Base,SP15,Contacted,2,Yes,Yes
+LD21847,2025-11-20,Aggregator,Creta,Mid,SP17,New,6,Yes,Yes
+LD21848,2024-12-10,Walk-in,Creta,Top,SP11,Booked,6,No,Yes
+LD21849,2024-01-01,Walk-in,Creta,Base,SP12,Booked,6,No,Yes
+LD21850,2024-04-19,Website,Creta,Top,SP13,New,0,No,Yes
+LD21851,2024-03-04,Walk-in,Nexon,Top,SP11,New,1,Yes,Yes
+LD21852,2024-02-22,Website,Swift,Mid,SP11,New,7,No,No
+LD21853,2024-09-18,Referral,Venue,Base,SP9,Booked,8,Yes,Yes
+LD21854,2025-06-12,Facebook,City,Top,SP11,Contacted,9,No,Yes
+LD21855,2024-10-28,Website,Nexon,Top,SP4,New,6,Yes,No
+LD21856,2024-08-21,Website,Creta,Base,SP2,New,0,Yes,No
+LD21857,2024-03-13,Referral,Venue,Mid,SP4,Contacted,3,Yes,Yes
+LD21858,2024-12-22,Aggregator,City,Mid,SP14,Booked,9,No,Yes
+LD21859,2025-08-25,Aggregator,Baleno,Base,SP5,Lost,7,Yes,Yes
+LD21860,2025-04-28,Aggregator,Nexon,Top,SP17,Contacted,4,No,No
+LD21861,2024-01-06,Website,Baleno,Mid,SP12,New,0,Yes,Yes
+LD21862,2025-12-10,Website,Venue,Mid,SP6,Booked,6,No,No
+LD21863,2025-12-08,Walk-in,Swift,Top,SP12,Booked,5,Yes,Yes
+LD21864,2024-05-16,Walk-in,Swift,Top,SP15,Contacted,8,Yes,No
+LD21865,2025-02-07,Facebook,Venue,Top,SP19,New,3,Yes,No
+LD21866,2025-09-19,Facebook,Swift,Top,SP10,Lost,3,No,No
+LD21867,2025-07-08,Walk-in,Swift,Base,SP2,Test Drive,7,Yes,Yes
+LD21868,2025-07-23,Website,Baleno,Top,SP12,Lost,3,Yes,Yes
+LD21869,2024-07-24,Referral,Swift,Mid,SP12,Contacted,2,No,No
+LD21870,2025-02-13,Walk-in,Swift,Top,SP7,Test Drive,6,No,No
+LD21871,2025-08-28,Website,Venue,Top,SP1,Test Drive,4,Yes,No
+LD21872,2024-02-05,Walk-in,Swift,Base,SP18,Booked,8,No,Yes
+LD21873,2024-08-17,Aggregator,Nexon,Base,SP3,Lost,4,No,No
+LD21874,2024-08-14,Walk-in,Creta,Top,SP20,New,8,Yes,Yes
+LD21875,2025-11-25,Aggregator,Creta,Base,SP5,Test Drive,5,No,Yes
+LD21876,2024-09-18,Website,Venue,Base,SP20,Contacted,5,Yes,No
+LD21877,2024-05-10,Aggregator,Creta,Base,SP15,Booked,5,Yes,No
+LD21878,2025-07-30,Walk-in,Baleno,Base,SP10,Booked,6,Yes,Yes
+LD21879,2025-03-23,Aggregator,Nexon,Top,SP19,Booked,3,No,Yes
+LD21880,2024-07-04,Referral,Nexon,Base,SP1,Contacted,3,No,Yes
+LD21881,2025-09-20,Aggregator,Venue,Base,SP7,New,8,Yes,No
+LD21882,2024-07-04,Aggregator,Swift,Mid,SP18,New,6,Yes,Yes
+LD21883,2024-09-30,Facebook,Creta,Top,SP2,Contacted,9,No,Yes
+LD21884,2025-10-24,Referral,Baleno,Base,SP19,Contacted,5,No,No
+LD21885,2024-12-17,Website,Venue,Mid,SP10,Lost,0,Yes,Yes
+LD21886,2025-02-16,Aggregator,Venue,Base,SP15,Contacted,6,Yes,No
+LD21887,2024-05-30,Referral,Swift,Top,SP10,Test Drive,5,Yes,No
+LD21888,2025-01-18,Website,City,Mid,SP10,Booked,3,No,No
+LD21889,2024-02-05,Referral,Creta,Mid,SP12,Booked,7,Yes,No
+LD21890,2024-11-21,Facebook,Baleno,Top,SP8,Test Drive,6,No,No
+LD21891,2025-04-09,Website,Venue,Mid,SP14,New,7,Yes,No
+LD21892,2025-04-10,Website,Creta,Mid,SP2,Contacted,8,No,No
+LD21893,2024-04-04,Aggregator,Baleno,Base,SP17,Contacted,0,No,No
+LD21894,2024-05-13,Walk-in,Nexon,Mid,SP6,Booked,2,Yes,No
+LD21895,2024-06-10,Website,Nexon,Top,SP8,Booked,1,No,Yes
+LD21896,2025-07-09,Website,Baleno,Base,SP1,Test Drive,2,No,No
+LD21897,2024-10-26,Facebook,Nexon,Mid,SP3,Booked,1,Yes,Yes
+LD21898,2024-12-21,Facebook,Venue,Base,SP15,Booked,5,No,Yes
+LD21899,2024-08-27,Facebook,Creta,Top,SP17,Lost,8,No,No
+LD21900,2025-07-17,Aggregator,Baleno,Mid,SP7,Booked,1,Yes,No
+LD21901,2025-08-08,Website,Venue,Top,SP14,New,3,No,No
+LD21902,2024-06-15,Facebook,Creta,Top,SP3,New,4,No,Yes
+LD21903,2024-05-19,Facebook,Creta,Mid,SP18,Contacted,4,Yes,No
+LD21904,2024-05-18,Referral,Venue,Mid,SP5,Test Drive,0,Yes,Yes
+LD21905,2024-08-22,Referral,Creta,Base,SP20,Test Drive,5,Yes,Yes
+LD21906,2024-01-03,Facebook,City,Top,SP15,Contacted,4,No,Yes
+LD21907,2024-09-12,Aggregator,Baleno,Mid,SP6,Booked,5,Yes,No
+LD21908,2025-01-05,Walk-in,Baleno,Top,SP3,Contacted,3,Yes,No
+LD21909,2024-10-04,Referral,Creta,Mid,SP18,Lost,5,Yes,Yes
+LD21910,2025-05-30,Referral,Venue,Top,SP20,Contacted,8,Yes,Yes
+LD21911,2024-07-30,Website,Swift,Base,SP3,New,0,Yes,Yes
+LD21912,2024-08-03,Website,Nexon,Top,SP8,New,5,Yes,Yes
+LD21913,2024-09-26,Facebook,Creta,Mid,SP19,New,0,Yes,No
+LD21914,2025-04-20,Website,Swift,Base,SP18,New,6,No,No
+LD21915,2025-06-11,Website,Creta,Base,SP15,Booked,3,No,Yes
+LD21916,2024-03-04,Walk-in,Swift,Mid,SP14,New,5,Yes,Yes
+LD21917,2025-04-04,Aggregator,Creta,Base,SP16,Booked,6,Yes,Yes
+LD21918,2024-01-16,Facebook,Venue,Top,SP3,Contacted,4,No,No
+LD21919,2025-07-17,Walk-in,Nexon,Top,SP15,New,8,Yes,No
+LD21920,2024-01-19,Facebook,Swift,Mid,SP19,Booked,7,No,Yes
+LD21921,2024-11-20,Aggregator,City,Top,SP8,Contacted,2,Yes,No
+LD21922,2024-04-02,Facebook,Venue,Mid,SP2,Test Drive,0,No,No
+LD21923,2024-01-17,Website,Nexon,Base,SP17,Contacted,9,Yes,Yes
+LD21924,2025-09-14,Aggregator,Creta,Top,SP12,New,7,No,No
+LD21925,2025-05-02,Walk-in,Swift,Mid,SP19,Contacted,3,No,No
+LD21926,2024-04-03,Walk-in,Nexon,Top,SP11,Test Drive,6,Yes,No
+LD21927,2024-01-10,Referral,Baleno,Base,SP18,New,3,No,No
+LD21928,2025-12-24,Walk-in,Venue,Base,SP13,Test Drive,6,No,No
+LD21929,2025-06-11,Referral,Swift,Top,SP14,Booked,0,Yes,No
+LD21930,2025-05-03,Website,Venue,Base,SP12,New,0,No,Yes
+LD21931,2024-05-23,Walk-in,Swift,Mid,SP15,Lost,1,No,Yes
+LD21932,2025-07-07,Aggregator,Baleno,Top,SP8,New,4,No,Yes
+LD21933,2025-05-29,Referral,City,Top,SP2,Booked,9,No,No
+LD21934,2025-04-14,Walk-in,Baleno,Base,SP8,Booked,5,Yes,No
+LD21935,2025-01-11,Website,Creta,Mid,SP5,Contacted,1,No,No
+LD21936,2025-10-29,Aggregator,Venue,Top,SP2,Lost,0,No,Yes
+LD21937,2025-05-08,Aggregator,City,Top,SP10,Contacted,8,No,Yes
+LD21938,2025-11-15,Website,Venue,Base,SP10,New,6,No,No
+LD21939,2025-04-28,Walk-in,Nexon,Base,SP4,Test Drive,7,Yes,No
+LD21940,2025-03-27,Facebook,Swift,Mid,SP4,Lost,5,No,No
+LD21941,2025-06-19,Walk-in,Creta,Mid,SP8,Booked,8,Yes,No
+LD21942,2024-03-15,Referral,Creta,Base,SP6,Contacted,7,Yes,No
+LD21943,2024-02-09,Referral,Venue,Mid,SP15,Test Drive,3,No,Yes
+LD21944,2024-10-28,Walk-in,Creta,Base,SP18,New,4,Yes,Yes
+LD21945,2025-07-05,Referral,Venue,Top,SP8,Contacted,1,No,No
+LD21946,2024-03-02,Facebook,Swift,Base,SP20,Test Drive,0,No,Yes
+LD21947,2025-05-17,Facebook,Swift,Base,SP7,Contacted,5,No,No
+LD21948,2024-09-01,Aggregator,Venue,Base,SP20,Contacted,2,Yes,Yes
+LD21949,2024-01-18,Referral,Baleno,Top,SP17,Lost,3,Yes,No
+LD21950,2025-10-13,Walk-in,Baleno,Mid,SP19,Test Drive,0,No,No
+LD21951,2025-02-01,Aggregator,Swift,Mid,SP2,Booked,5,Yes,No
+LD21952,2025-08-16,Facebook,City,Mid,SP12,Contacted,7,Yes,No
+LD21953,2024-07-07,Aggregator,Baleno,Base,SP19,Lost,9,Yes,Yes
+LD21954,2025-09-11,Website,Venue,Base,SP5,New,3,Yes,No
+LD21955,2024-04-13,Referral,Swift,Mid,SP12,Test Drive,9,No,No
+LD21956,2025-10-07,Walk-in,Creta,Top,SP17,Booked,7,No,No
+LD21957,2024-12-09,Facebook,Creta,Top,SP5,Booked,9,No,No
+LD21958,2025-01-05,Aggregator,Baleno,Top,SP2,New,2,Yes,Yes
+LD21959,2024-02-02,Walk-in,City,Top,SP4,Contacted,6,No,Yes
+LD21960,2025-01-08,Referral,Nexon,Base,SP6,Test Drive,2,No,Yes
+LD21961,2024-06-26,Walk-in,Baleno,Mid,SP9,Contacted,5,No,No
+LD21962,2024-01-12,Referral,City,Top,SP10,Test Drive,3,Yes,Yes
+LD21963,2025-03-31,Referral,Baleno,Base,SP11,Contacted,5,Yes,No
+LD21964,2025-10-04,Referral,Creta,Base,SP2,Contacted,6,Yes,Yes
+LD21965,2024-09-05,Aggregator,City,Base,SP9,New,7,No,Yes
+LD21966,2025-03-23,Referral,Creta,Mid,SP20,New,5,No,No
+LD21967,2025-07-23,Walk-in,Venue,Base,SP17,Booked,3,No,Yes
+LD21968,2024-01-04,Website,Venue,Mid,SP9,Contacted,8,Yes,No
+LD21969,2024-08-23,Walk-in,Swift,Mid,SP8,Test Drive,6,No,Yes
+LD21970,2024-06-21,Aggregator,Creta,Mid,SP5,Contacted,8,Yes,No
+LD21971,2024-11-17,Referral,Creta,Mid,SP5,New,2,Yes,No
+LD21972,2025-01-05,Website,Swift,Base,SP6,Contacted,4,Yes,No
+LD21973,2025-07-01,Aggregator,Venue,Base,SP16,New,0,No,No
+LD21974,2024-10-22,Facebook,Venue,Base,SP1,Booked,7,Yes,Yes
+LD21975,2025-02-03,Facebook,City,Top,SP9,Lost,0,No,No
+LD21976,2024-02-27,Facebook,City,Top,SP7,Booked,0,Yes,Yes
+LD21977,2025-06-13,Website,Nexon,Mid,SP11,Test Drive,6,No,No
+LD21978,2025-07-01,Walk-in,Venue,Mid,SP15,Test Drive,7,Yes,No
+LD21979,2025-02-11,Website,Nexon,Mid,SP5,Lost,2,No,No
+LD21980,2025-10-02,Website,Baleno,Mid,SP19,Test Drive,1,No,No
+LD21981,2025-05-27,Website,Creta,Mid,SP6,Test Drive,6,Yes,Yes
+LD21982,2024-03-04,Facebook,City,Top,SP14,Test Drive,9,No,Yes
+LD21983,2025-07-27,Walk-in,Baleno,Mid,SP20,Booked,4,No,No
+LD21984,2025-02-23,Website,City,Base,SP14,Test Drive,0,Yes,Yes
+LD21985,2024-05-25,Walk-in,Swift,Mid,SP11,Test Drive,1,Yes,Yes
+LD21986,2024-09-28,Referral,Creta,Base,SP4,Booked,2,No,No
+LD21987,2024-01-17,Website,Nexon,Base,SP10,Booked,5,Yes,Yes
+LD21988,2024-04-07,Website,Nexon,Base,SP2,Contacted,0,No,No
+LD21989,2025-03-27,Website,City,Base,SP4,Booked,7,Yes,No
+LD21990,2024-08-30,Referral,Venue,Mid,SP20,New,1,Yes,Yes
+LD21991,2025-04-23,Referral,Nexon,Mid,SP10,Booked,4,Yes,Yes
+LD21992,2024-07-19,Facebook,Swift,Mid,SP1,Contacted,7,No,No
+LD21993,2025-04-17,Aggregator,Swift,Mid,SP14,Contacted,4,Yes,No
+LD21994,2024-06-27,Walk-in,Venue,Mid,SP18,Booked,7,No,No
+LD21995,2025-05-22,Aggregator,Swift,Top,SP12,Test Drive,5,No,Yes
+LD21996,2025-03-28,Website,Creta,Base,SP19,Contacted,6,Yes,No
+LD21997,2024-09-26,Website,City,Base,SP12,New,7,Yes,No
+LD21998,2024-08-21,Facebook,Swift,Top,SP5,Lost,2,Yes,No
+LD21999,2025-09-15,Aggregator,Creta,Top,SP4,New,4,Yes,No

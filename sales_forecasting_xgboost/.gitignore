@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (keep if needed, uncomment to include)
+# *.pkl
+# *.joblib
+# *.h5
+
+# Data files (optional - uncomment if you want to exclude large CSVs)
+# *.csv
+
+# Streamlit cache
+.streamlit/
